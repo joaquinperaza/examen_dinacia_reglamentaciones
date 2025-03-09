@@ -9,10 +9,1036 @@
         "21 años"
       ],
       "opcion_correcta": 1,
-      "unidad": "‌Capítulo B:Licencias y habilitaciones para pilotos",
-      "subunidad": "61.505   Requisitos de idoneidad: Generalidades",
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.505 Requisitos de idoneidad: Generalidades",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuántas horas de vuelo total debe tener un aspirante a piloto privado?",
+      "opciones": [
+        "30 horas",
+        "40 horas",
+        "50 horas",
+        "60 horas"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.520 Experiencia de vuelo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuál es el período de validez del certificado médico Clase 2 para piloto privado?",
+      "opciones": [
+        "12 meses",
+        "24 meses",
+        "36 meses",
+        "48 meses"
+      ],
+      "opcion_correcta": 0,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.505 Requisitos de idoneidad: Generalidades",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuántas horas de vuelo solo debe acumular un aspirante a piloto privado?",
+      "opciones": [
+        "5 horas",
+        "10 horas",
+        "15 horas",
+        "20 horas"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.520 Experiencia de vuelo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuántas horas de instrucción en vuelo de travesía se requieren para piloto privado?",
+      "opciones": [
+        "3 horas",
+        "5 horas",
+        "10 horas",
+        "15 horas"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.520 Experiencia de vuelo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuál es la distancia mínima del vuelo de travesía solo para piloto privado?",
+      "opciones": [
+        "100 millas náuticas",
+        "150 millas náuticas",
+        "200 millas náuticas",
+        "250 millas náuticas"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.520 Experiencia de vuelo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuántas horas de instrucción en vuelo por instrumentos se requieren para piloto privado?",
+      "opciones": [
+        "2 horas",
+        "3 horas",
+        "5 horas",
+        "10 horas"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.520 Experiencia de vuelo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuántas horas de instrucción en vuelo nocturno se requieren para piloto privado?",
+      "opciones": [
+        "2 horas",
+        "3 horas",
+        "5 horas",
+        "10 horas"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.520 Experiencia de vuelo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuál es el tiempo mínimo de preparación para el examen de conocimientos teóricos?",
+      "opciones": [
+        "20 horas",
+        "30 horas",
+        "40 horas",
+        "50 horas"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.510 Conocimientos aeronáuticos",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Por cuánto tiempo es válido el examen de conocimientos teóricos?",
+      "opciones": [
+        "12 meses",
+        "18 meses",
+        "24 meses",
+        "36 meses"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.510 Conocimientos aeronáuticos",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuál es el requisito de competencia lingüística para piloto privado?",
+      "opciones": [
+        "Nivel 3",
+        "Nivel 4",
+        "Nivel 5",
+        "Nivel 6"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.505 Requisitos de idoneidad: Generalidades",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuántos aterrizajes nocturnos completos debe realizar un aspirante a piloto privado?",
+      "opciones": [
+        "3 aterrizajes",
+        "5 aterrizajes",
+        "7 aterrizajes",
+        "10 aterrizajes"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.520 Experiencia de vuelo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué tipo de aeronave debe utilizarse para la instrucción de piloto privado?",
+      "opciones": [
+        "Cualquier aeronave",
+        "Aeronave certificada para vuelo VFR",
+        "Aeronave certificada para instrucción primaria",
+        "Aeronave con doble mando"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.515 Instrucción de vuelo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuál es el período máximo entre la instrucción de vuelo y la prueba de pericia?",
+      "opciones": [
+        "30 días",
+        "60 días",
+        "90 días",
+        "180 días"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.525 Pericia",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué documento debe presentar el instructor de vuelo al término de la instrucción?",
+      "opciones": [
+        "Bitácora de vuelo",
+        "Certificado de instrucción",
+        "Libro de vuelo",
+        "Declaración de competencia"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.515 Instrucción de vuelo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuántas horas de vuelo como piloto al mando se requieren para mantener la vigencia de la licencia?",
+      "opciones": [
+        "5 horas en 6 meses",
+        "10 horas en 12 meses",
+        "15 horas en 12 meses",
+        "20 horas en 24 meses"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.530 Atribuciones y limitaciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué requisito adicional se necesita para vuelos nocturnos como piloto privado?",
+      "opciones": [
+        "Habilitación especial",
+        "Certificado médico Clase 1",
+        "Experiencia reciente nocturna",
+        "Autorización del instructor"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.530 Atribuciones y limitaciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuál es el requisito de experiencia reciente para vuelos con pasajeros?",
+      "opciones": [
+        "3 despegues y aterrizajes en 90 días",
+        "3 despegues y aterrizajes en 60 días",
+        "5 despegues y aterrizajes en 90 días",
+        "5 despegues y aterrizajes en 60 días"
+      ],
+      "opcion_correcta": 0,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.530 Atribuciones y limitaciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Puede un piloto privado recibir remuneración por sus servicios?",
+      "opciones": [
+        "Sí, siempre",
+        "Nunca",
+        "Solo en vuelos de instrucción",
+        "Solo compartiendo gastos"
+      ],
+      "opcion_correcta": 3,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.530 Atribuciones y limitaciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué documento debe llevar siempre consigo un piloto privado durante el vuelo?",
+      "opciones": [
+        "Solo la licencia",
+        "Licencia y certificado médico",
+        "Licencia, certificado médico y documento de identidad",
+        "Licencia y libro de vuelo"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo D: Licencia de piloto privado",
+      "subunidad": "61.530 Atribuciones y limitaciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuál es la edad mínima para obtener una licencia de alumno piloto?",
+      "opciones": [
+        "15 años",
+        "16 años",
+        "17 años",
+        "18 años"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.305 Requisitos de idoneidad",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué clase de certificado médico requiere un alumno piloto?",
+      "opciones": [
+        "Clase 1",
+        "Clase 2",
+        "Clase 3",
+        "No requiere certificado médico"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.305 Requisitos de idoneidad",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Quién debe autorizar el vuelo solo de un alumno piloto?",
+      "opciones": [
+        "El instructor de vuelo",
+        "La autoridad aeronáutica",
+        "El operador de la aeronave",
+        "El director de la escuela"
+      ],
+      "opcion_correcta": 0,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.310 Requisitos para el vuelo solo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué requisito de idioma debe cumplir un alumno piloto?",
+      "opciones": [
+        "Debe hablar inglés fluido",
+        "Debe leer y hablar el idioma del Estado que emite la licencia",
+        "Debe tener nivel 4 OACI de inglés",
+        "No hay requisitos de idioma"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.305 Requisitos de idoneidad",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Puede un alumno piloto realizar vuelos internacionales solo?",
+      "opciones": [
+        "Sí, con autorización del instructor",
+        "Sí, con permiso de la autoridad aeronáutica",
+        "No, está prohibido",
+        "Sí, si tiene más de 40 horas de vuelo"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.315 Limitaciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Puede un alumno piloto transportar pasajeros?",
+      "opciones": [
+        "Sí, con autorización del instructor",
+        "Sí, si son otros alumnos pilotos",
+        "No, está prohibido",
+        "Sí, si tiene más de 20 horas de vuelo"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.315 Limitaciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué documento debe portar un alumno piloto durante el vuelo solo?",
+      "opciones": [
+        "Solo la autorización de vuelo solo",
+        "Autorización de vuelo solo y certificado médico",
+        "Autorización de vuelo solo, certificado médico y documento de identidad",
+        "Solo el certificado médico"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.310 Requisitos para el vuelo solo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Puede un alumno piloto realizar vuelos nocturnos solo?",
+      "opciones": [
+        "No, está prohibido",
+        "Sí, con autorización específica del instructor",
+        "Sí, después de 20 horas de vuelo",
+        "Sí, sin restricciones"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.315 Limitaciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué tipo de instrucción debe recibir un alumno piloto antes del vuelo solo?",
+      "opciones": [
+        "Solo teórica",
+        "Solo práctica",
+        "Teórica y práctica",
+        "No requiere instrucción previa"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.310 Requisitos para el vuelo solo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Puede un alumno piloto operar en un aeródromo controlado?",
+      "opciones": [
+        "No, está prohibido",
+        "Sí, con autorización específica del instructor",
+        "Sí, sin restricciones",
+        "Solo durante el día"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.315 Limitaciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuál es la validez de la autorización de vuelo solo?",
+      "opciones": [
+        "30 días",
+        "60 días",
+        "90 días",
+        "180 días"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.310 Requisitos para el vuelo solo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Puede un alumno piloto realizar vuelos de travesía solo?",
+      "opciones": [
+        "No, está prohibido",
+        "Sí, con autorización específica del instructor",
+        "Sí, sin restricciones",
+        "Solo en condiciones VMC"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.315 Limitaciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué condiciones meteorológicas debe respetar un alumno piloto en vuelo solo?",
+      "opciones": [
+        "VMC solamente",
+        "VMC o IMC con autorización",
+        "Sin restricciones",
+        "Solo con techo superior a 3000 pies"
+      ],
+      "opcion_correcta": 0,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.315 Limitaciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Puede un alumno piloto realizar vuelos acrobáticos?",
+      "opciones": [
+        "Sí, con autorización del instructor",
+        "No, está prohibido",
+        "Sí, después de 40 horas de vuelo",
+        "Solo en zonas designadas"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.315 Limitaciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué debe hacer un alumno piloto si su certificado médico caduca?",
+      "opciones": [
+        "Puede seguir volando hasta renovarlo",
+        "Debe suspender toda actividad de vuelo",
+        "Puede realizar solo vuelos locales",
+        "Puede volar con supervisor"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.305 Requisitos de idoneidad",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Puede un alumno piloto recibir instrucción de varios instructores?",
+      "opciones": [
+        "No, debe tener un único instructor",
+        "Sí, sin restricciones",
+        "Sí, con la coordinación entre instructores",
+        "Solo para diferentes tipos de aeronaves"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.310 Requisitos para el vuelo solo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué registros debe mantener un alumno piloto?",
+      "opciones": [
+        "Solo el libro de vuelo",
+        "Libro de vuelo y autorizaciones de vuelo solo",
+        "Libro de vuelo, autorizaciones y certificado médico",
+        "No requiere mantener registros"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.310 Requisitos para el vuelo solo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Puede un alumno piloto actuar como piloto al mando en vuelos comerciales?",
+      "opciones": [
+        "Sí, con autorización",
+        "No, está prohibido",
+        "Sí, después de 50 horas",
+        "Solo en vuelos locales"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.315 Limitaciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué requisitos de experiencia previa debe tener un alumno piloto para vuelo solo?",
+      "opciones": [
+        "Mínimo 10 horas de vuelo dual",
+        "No hay requisitos específicos de horas",
+        "20 horas de vuelo total",
+        "5 horas de vuelo dual"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.310 Requisitos para el vuelo solo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Puede un alumno piloto realizar vuelos en formación?",
+      "opciones": [
+        "Sí, con autorización",
+        "No, está prohibido",
+        "Solo con otro alumno piloto",
+        "Solo en vuelos de instrucción"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo C: Licencia de Alumno Piloto",
+      "subunidad": "61.315 Limitaciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué documento es necesario para ejercer las atribuciones de una licencia?",
+      "opciones": [
+        "Solo la licencia vigente",
+        "Licencia y certificado médico vigentes",
+        "Licencia, certificado médico y documento de identidad",
+        "Solo el certificado médico"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.015 Autorización para actuar como miembro de la tripulación de vuelo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿En qué circunstancias se puede solicitar una convalidación de licencia?",
+      "opciones": [
+        "En cualquier momento",
+        "Cuando la licencia original esté vigente y sea de un Estado contratante del Convenio de Chicago",
+        "Solo para licencias comerciales",
+        "Solo para vuelos privados"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.025 Convalidación de licencia",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Por cuánto tiempo es válida una convalidación de licencia?",
+      "opciones": [
+        "6 meses",
+        "12 meses",
+        "El mismo período que la licencia original",
+        "24 meses"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.025 Convalidación de licencia",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuándo debe un piloto portar su licencia?",
+      "opciones": [
+        "Solo en vuelos internacionales",
+        "Solo durante vuelos comerciales",
+        "Durante todos los vuelos",
+        "Solo durante la instrucción"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.015 Autorización para actuar como miembro de la tripulación de vuelo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué sucede si un piloto no mantiene la competencia lingüística requerida?",
+      "opciones": [
+        "Puede seguir volando con restricciones",
+        "Se suspenden las atribuciones de la licencia",
+        "Solo puede volar en espacio aéreo nacional",
+        "Debe realizar solo vuelos VFR"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.055 Competencia lingüística",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuál es el procedimiento correcto para cambiar el nombre en una licencia?",
+      "opciones": [
+        "Usar la licencia con el nombre anterior",
+        "Solicitar una nueva licencia a la AAC",
+        "Escribir el nuevo nombre en la licencia actual",
+        "No es necesario cambiar el nombre"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.075 Cambio de nombre del titular",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué debe hacer un piloto si su licencia se deteriora?",
+      "opciones": [
+        "Puede seguir usando la licencia deteriorada",
+        "Solicitar un duplicado a la AAC",
+        "Hacer una copia certificada",
+        "Volar solo con el certificado médico"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.080 Reposición de licencia extraviada o destruida",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuándo debe un piloto presentar su licencia para inspección?",
+      "opciones": [
+        "Solo en accidentes",
+        "Cuando lo solicite la autoridad competente",
+        "Solo en vuelos internacionales",
+        "Solo durante exámenes"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.015 Autorización para actuar como miembro de la tripulación de vuelo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué restricción aplica a un piloto que usa lentes correctivos?",
+      "opciones": [
+        "No puede volar de noche",
+        "Debe llevar lentes de repuesto durante el vuelo",
+        "Solo puede volar con copiloto",
+        "No tiene restricciones"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.040 Limitación y restricción de las atribuciones por edad",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuál es el período de validez de una habilitación de tipo?",
+      "opciones": [
+        "6 meses",
+        "12 meses",
+        "24 meses",
+        "El mismo que la licencia"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.030 Habilitaciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué nivel mínimo de competencia lingüística se requiere para vuelos internacionales?",
+      "opciones": [
+        "Nivel 3",
+        "Nivel 4",
+        "Nivel 5",
+        "Nivel 6"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.055 Competencia lingüística",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué debe hacer un piloto si su certificado médico expira?",
+      "opciones": [
+        "Puede seguir volando por 30 días más",
+        "Debe suspender el ejercicio de las atribuciones de su licencia",
+        "Puede volar solo vuelos privados",
+        "Puede volar con un copiloto"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.020 Validez de las licencias",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuál es la edad máxima para ejercer como piloto al mando en transporte aéreo comercial?",
+      "opciones": [
+        "60 años",
+        "63 años",
+        "65 años",
+        "No hay límite de edad"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.040 Limitación y restricción de las atribuciones por edad",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué documentos son necesarios para solicitar una convalidación de licencia?",
+      "opciones": [
+        "Solo la licencia original",
+        "Licencia original y certificado médico",
+        "Licencia, certificado médico y documento de identidad",
+        "Solo el pasaporte"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.025 Convalidación de licencia",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Puede un piloto ejercer las atribuciones de su licencia bajo los efectos del alcohol?",
+      "opciones": [
+        "Sí, si han pasado 8 horas",
+        "No, está prohibido",
+        "Sí, para vuelos privados",
+        "Sí, con autorización especial"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.015 Autorización para actuar como miembro de la tripulación de vuelo",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué validez tiene una habilitación de instructor de vuelo?",
+      "opciones": [
+        "12 meses",
+        "24 meses",
+        "36 meses",
+        "48 meses"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.030 Habilitaciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuándo debe renovarse una habilitación de tipo?",
+      "opciones": [
+        "Cada 6 meses",
+        "Cada 12 meses",
+        "Cada 24 meses",
+        "Cuando expire la licencia"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.030 Habilitaciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué sucede si un piloto no mantiene la experiencia reciente requerida?",
+      "opciones": [
+        "Puede seguir volando con restricciones",
+        "Debe realizar un vuelo de verificación",
+        "Debe renovar su licencia",
+        "No hay consecuencias"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.020 Validez de las licencias",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué requisito adicional existe para pilotos mayores de 60 años en operaciones comerciales?",
+      "opciones": [
+        "No pueden volar comercialmente",
+        "Deben volar con copiloto menor de 60 años",
+        "Necesitan certificado médico especial",
+        "No hay requisitos adicionales"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.040 Limitación y restricción de las atribuciones por edad",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Cuál es el procedimiento para agregar una habilitación a una licencia existente?",
+      "opciones": [
+        "Solicitar una nueva licencia",
+        "Cumplir requisitos y solicitar la habilitación a la AAC",
+        "Anotar la habilitación personalmente",
+        "No es necesario ningún trámite"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo B: Licencias y Habilitaciones para Pilotos",
+      "subunidad": "61.030 Habilitaciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué significa la sigla LAR?",
+      "opciones": [
+        "Ley Aeronáutica Regional",
+        "Legislación Aérea Reglamentaria",
+        "Reglamento Aeronáutico Latinoamericano",
+        "Regulación Aérea Regional"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.001 Definiciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué es una habilitación según el LAR 61?",
+      "opciones": [
+        "Un permiso especial de vuelo",
+        "Una autorización anotada en la licencia que establece condiciones especiales",
+        "Un certificado de competencia",
+        "Una licencia temporal"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.001 Definiciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué es el tiempo de vuelo según el LAR 61?",
+      "opciones": [
+        "Tiempo desde el encendido hasta el apagado de motores",
+        "Tiempo desde que la aeronave comienza a moverse hasta que se detiene",
+        "Tiempo entre el despegue y el aterrizaje",
+        "Tiempo desde que la aeronave se mueve por su propia fuerza hasta que se detiene al final del vuelo"
+      ],
+      "opcion_correcta": 3,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.001 Definiciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué es el tiempo de instrucción con doble mando?",
+      "opciones": [
+        "Tiempo de vuelo con dos pilotos",
+        "Tiempo de vuelo durante el cual una persona recibe instrucción de un instructor autorizado",
+        "Tiempo de vuelo con copiloto",
+        "Tiempo de vuelo en simulador"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.001 Definiciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué es el tiempo de vuelo por instrumentos?",
+      "opciones": [
+        "Tiempo volando solo con instrumentos",
+        "Tiempo volando en condiciones IMC",
+        "Tiempo durante el cual se pilota una aeronave solamente por referencia a los instrumentos",
+        "Tiempo de vuelo nocturno"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.001 Definiciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué es el tiempo de vuelo solo?",
+      "opciones": [
+        "Tiempo de vuelo sin pasajeros",
+        "Tiempo durante el cual el alumno piloto es el único ocupante de la aeronave",
+        "Tiempo de vuelo sin instructor",
+        "Tiempo de vuelo sin copiloto"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.001 Definiciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué es una conversión de licencia?",
+      "opciones": [
+        "Cambio de una licencia por otra de grado superior",
+        "Otorgamiento de una licencia nacional basada en una licencia extranjera",
+        "Renovación de una licencia vencida",
+        "Cambio de categoría en una licencia"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.001 Definiciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué es la competencia?",
+      "opciones": [
+        "Capacidad de volar sin supervisión",
+        "Autorización para realizar vuelos comerciales",
+        "Combinación de pericia, conocimientos y actitud para realizar una tarea según la norma prescrita",
+        "Experiencia acumulada en vuelo"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.001 Definiciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué es un error según el LAR 61?",
+      "opciones": [
+        "Cualquier falla en un vuelo",
+        "Acción u omisión que da lugar a desviaciones de las intenciones o expectativas",
+        "Violación de una regulación",
+        "Incumplimiento de procedimientos"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.001 Definiciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué es una amenaza según el LAR 61?",
+      "opciones": [
+        "Condición meteorológica adversa",
+        "Sucesos que aumentan la complejidad operacional y que deben manejarse para mantener el margen de seguridad",
+        "Falla de equipos",
+        "Violación del espacio aéreo"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.001 Definiciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué es un entrenador para procedimientos de vuelo?",
+      "opciones": [
+        "Un simulador de vuelo",
+        "Una aeronave de entrenamiento",
+        "Un dispositivo que reproduce el ambiente del puesto de pilotaje",
+        "Un programa de computadora"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.001 Definiciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué es vuelo de travesía?",
+      "opciones": [
+        "Vuelo entre dos aeropuertos",
+        "Vuelo que se realiza entre un punto de salida y un punto de llegada siguiendo una ruta preestablecida",
+        "Vuelo de más de 50 millas náuticas",
+        "Vuelo fuera del circuito de tránsito"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.001 Definiciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué autoridad puede aplicar exenciones a los requisitos del LAR 61?",
+      "opciones": [
+        "El instructor de vuelo",
+        "La escuela de vuelo",
+        "La AAC",
+        "El operador aéreo"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.010 Aplicación",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué es una convalidación automática?",
+      "opciones": [
+        "Renovación automática de la licencia",
+        "Convalidación de licencia sin trámites",
+        "Convalidación entre Estados que han adoptado requisitos comunes de otorgamiento de licencias",
+        "Validación inmediata de una licencia extranjera"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.001 Definiciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué es una verificación de competencia?",
+      "opciones": [
+        "Un examen teórico",
+        "Una prueba práctica",
+        "Demostración de pericia para renovar o revalidar habilitaciones",
+        "Una evaluación médica"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.001 Definiciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué es el uso problemático de sustancias?",
+      "opciones": [
+        "Consumo de alcohol antes del vuelo",
+        "Uso de sustancias psicoactivas que afectan el desempeño",
+        "Uso de medicamentos sin prescripción",
+        "Consumo de drogas ilegales"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.001 Definiciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué es una aeronave certificada para volar con un solo piloto?",
+      "opciones": [
+        "Aeronave monomotor",
+        "Aeronave que la AAC ha determinado que puede volar con un piloto",
+        "Aeronave sin copiloto",
+        "Aeronave deportiva"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.001 Definiciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué es el tiempo en entrenador?",
+      "opciones": [
+        "Tiempo de vuelo en simulador",
+        "Tiempo en instrucción teórica",
+        "Tiempo durante el cual un piloto practica en tierra el vuelo simulado",
+        "Tiempo de briefing antes del vuelo"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.001 Definiciones",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿A quién aplica el LAR 61?",
+      "opciones": [
+        "Solo a pilotos comerciales",
+        "A todo el personal aeronáutico",
+        "A los aspirantes y titulares de licencias y habilitaciones aeronáuticas",
+        "Solo a instructores de vuelo"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.005 Aplicación",
+      "modulo": "Reglamento LAR 61"
+    },
+    {
+      "pregunta": "¿Qué es una habilitación de tipo?",
+      "opciones": [
+        "Una autorización para volar cualquier aeronave",
+        "Una habilitación para un tipo específico de aeronave que requiere habilitación específica",
+        "Un permiso para vuelo nocturno",
+        "Una autorización para vuelo por instrumentos"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo A: Generalidades",
+      "subunidad": "61.001 Definiciones",
       "modulo": "Reglamento LAR 61"
     }
-    
-  ]
+  ] 
 }

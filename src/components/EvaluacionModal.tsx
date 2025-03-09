@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Unidad } from '../types/types';
-import preguntas from '../pruebas/modulo_1.json';
+import { fetchPruebas } from '../api/courseApi';
 
 interface Pregunta {
   pregunta: string;
@@ -17,6 +17,48 @@ interface EvaluacionModalProps {
   onClose: () => void;
 }
 
+function calcularSimilitudTexto(str1: string, str2: string): number {
+  // Normalizar textos: convertir a minúsculas, eliminar puntuación y espacios extra
+  const normalizar = (texto: string): string => {
+    return texto
+      .toLowerCase()
+      .replace(/[.,\/#!$%\^&\*;:{}=\-_`~()]/g, "")
+      .replace(/\s+/g, " ")
+      .trim();
+  };
+
+  const s1 = normalizar(str1);
+  const s2 = normalizar(str2);
+
+  // Si los textos normalizados son iguales, retorna similitud perfecta
+  if (s1 === s2) return 1;
+
+  // Calcular la distancia de Levenshtein
+  const matriz = Array(s2.length + 1).fill(null).map(() => 
+    Array(s1.length + 1).fill(null)
+  );
+
+  for (let i = 0; i <= s1.length; i++) matriz[0][i] = i;
+  for (let j = 0; j <= s2.length; j++) matriz[j][0] = j;
+
+  for (let j = 1; j <= s2.length; j++) {
+    for (let i = 1; i <= s1.length; i++) {
+      const sustitución = matriz[j - 1][i - 1] + (s2[j - 1] === s1[i - 1] ? 0 : 1);
+      matriz[j][i] = Math.min(
+        matriz[j][i - 1] + 1, // inserción
+        matriz[j - 1][i] + 1, // eliminación
+        sustitución // sustitución
+      );
+    }
+  }
+
+  // Convertir la distancia en una medida de similitud entre 0 y 1
+  const maxLength = Math.max(s1.length, s2.length);
+  const similitud = 1 - (matriz[s2.length][s1.length] / maxLength);
+
+  return similitud;
+}
+
 const EvaluacionModal = ({ unidad, onComplete, onClose }: EvaluacionModalProps) => {
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [respuestas, setRespuestas] = useState<number[]>([]);
@@ -25,17 +67,22 @@ const EvaluacionModal = ({ unidad, onComplete, onClose }: EvaluacionModalProps) 
   const [preguntasUnidad, setPreguntasUnidad] = useState<Pregunta[]>([]);
 
   useEffect(() => {
-    // Filtrar preguntas por unidad
-    const preguntasDisponibles = preguntas.preguntas.filter(
-      (pregunta) => pregunta.unidad === unidad.nombre
-    );
+    const cargarPreguntas = async () => {
+      const data = await fetchPruebas(unidad.moduloId.toString());
+      if (!data) {
+        setPreguntasUnidad([]);
+        return;
+      }
 
-    // Mezclar y seleccionar 5 preguntas aleatorias
-    const preguntasSeleccionadas = preguntasDisponibles
-      .sort(() => Math.random() - 0.5)
-      .slice(0, 5);
+      // Usar la función de similitud para filtrar preguntas
+      const preguntasSeleccionadas = data.preguntas.filter(
+        (pregunta: Pregunta) => calcularSimilitudTexto(pregunta.unidad, unidad.nombre) > 0.8
+      );
 
-    setPreguntasUnidad(preguntasSeleccionadas);
+      setPreguntasUnidad(preguntasSeleccionadas);
+    };
+
+    cargarPreguntas();
   }, [unidad]);
 
   const handleRespuesta = (respuestaIndex: number) => {

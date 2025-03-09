@@ -8,6 +8,7 @@ interface Subunidad {
 
 interface Unidad {
   nombre: string;
+  moduloId: number;
   subunidades: Subunidad[];
   evaluacion?: {
     preguntas: {
@@ -21,6 +22,7 @@ interface Unidad {
 
 interface Modulo {
   nombre: string;
+  id?: number;
   unidades: Unidad[];
 }
 
