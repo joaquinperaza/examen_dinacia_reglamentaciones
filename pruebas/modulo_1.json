@@ -1,0 +1,1746 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Qué título del Código Aeronáutico Uruguayo establece las disposiciones generales?",
+      "opciones": [
+        "TÍTULO I - DISPOSICIONES GENERALES",
+        "TÍTULO II - JURISDICCIÓN",
+        "TÍTULO III - CIRCULACIÓN AÉREA",
+        "TÍTULO IV - AERONAVES"
+      ],
+      "opcion_correcta": 0,
+      "unidad": "TÍTULO I - DISPOSICIONES GENERALES",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 1, ¿sobre qué espacio ejerce soberanía la República Oriental del Uruguay?",
+      "opciones": [
+        "Solo sobre el territorio nacional",
+        "Solo sobre las aguas jurisdiccionales",
+        "Sobre el territorio y aguas jurisdiccionales uruguayas",
+        "Sobre todo el espacio aéreo internacional"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO I - DISPOSICIONES GENERALES",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "¿Qué título regula la jurisdicción sobre aeronaves?",
+      "opciones": [
+        "TÍTULO I",
+        "TÍTULO II",
+        "TÍTULO III",
+        "TÍTULO IV"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO II - JURISDICCIÓN",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 4, ¿qué hechos están sometidos a la legislación uruguaya?",
+      "opciones": [
+        "Solo los hechos ocurridos en territorio nacional",
+        "Los hechos ocurridos a bordo de aeronaves uruguayas en cualquier lugar",
+        "Solo los hechos ocurridos en aguas jurisdiccionales",
+        "Solo los hechos ocurridos en aeropuertos uruguayos"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO II - JURISDICCIÓN",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "¿Qué título regula la circulación aérea?",
+      "opciones": [
+        "TÍTULO I",
+        "TÍTULO II",
+        "TÍTULO III",
+        "TÍTULO IV"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 7, ¿qué se declara de interés nacional?",
+      "opciones": [
+        "Solo la circulación aérea",
+        "Solo el transporte de personas",
+        "La circulación aérea y el transporte de personas y cosas",
+        "Solo el transporte de cosas"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "¿Qué título regula las aeronaves?",
+      "opciones": [
+        "TÍTULO I",
+        "TÍTULO II",
+        "TÍTULO III",
+        "TÍTULO IV"
+      ],
+      "opcion_correcta": 3,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo I - Principios Generales",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 28, ¿cómo se clasifican las aeronaves?",
+      "opciones": [
+        "En comerciales y privadas",
+        "En públicas y privadas",
+        "En militares y civiles",
+        "En regulares y no regulares"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo I - Principios Generales",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "¿Qué título regula la infraestructura aeronáutica?",
+      "opciones": [
+        "TÍTULO III",
+        "TÍTULO IV",
+        "TÍTULO V",
+        "TÍTULO VI"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO V - INFRAESTRUCTURA",
+      "subunidad": "Capítulo I - Generalidades",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 63, ¿qué se entiende por infraestructura aeronáutica?",
+      "opciones": [
+        "Solo los aeródromos",
+        "Solo los aeropuertos",
+        "Los aeródromos, aeropuertos y todas las instalaciones y servicios destinados a permitir, facilitar y asegurar las operaciones aeronáuticas",
+        "Solo los servicios de control aéreo"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO V - INFRAESTRUCTURA",
+      "subunidad": "Capítulo I - Generalidades",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "¿Qué título regula el personal aeronáutico?",
+      "opciones": [
+        "TÍTULO IV",
+        "TÍTULO V",
+        "TÍTULO VI",
+        "TÍTULO VII"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO VI - PERSONAL AERONÁUTICO",
+      "subunidad": "Capítulo I - Generalidades",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 81, ¿qué debe tener el personal técnico aeronáutico?",
+      "opciones": [
+        "Solo patente de capacidad",
+        "Solo licencia para el ejercicio de su profesión",
+        "Patente de capacidad y licencia para el ejercicio de su profesión",
+        "Solo certificado de idoneidad"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO VI - PERSONAL AERONÁUTICO",
+      "subunidad": "Capítulo I - Generalidades",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "¿Qué título regula la prevención e investigación de accidentes?",
+      "opciones": [
+        "TÍTULO V",
+        "TÍTULO VI",
+        "TÍTULO VII",
+        "TÍTULO VIII"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO VII - PREVENCIÓN E INVESTIGACIÓN DE ACCIDENTES",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 92, ¿qué debe hacerse con todo accidente de aviación?",
+      "opciones": [
+        "Solo reportarlo",
+        "Solo investigarlo",
+        "Investigarlo para determinar sus causas y prevenir su repetición",
+        "Solo documentarlo"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO VII - PREVENCIÓN E INVESTIGACIÓN DE ACCIDENTES",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "¿Qué título regula la búsqueda, asistencia, salvamento y desaparición de aeronaves?",
+      "opciones": [
+        "TÍTULO VI",
+        "TÍTULO VII",
+        "TÍTULO VIII",
+        "TÍTULO IX"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO VIII - BÚSQUEDA, ASISTENCIA, SALVAMENTO Y DESAPARICIÓN DE AERONAVES",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 102, ¿quién está obligado a prestar asistencia a aeronaves en peligro?",
+      "opciones": [
+        "Solo los explotadores",
+        "Solo los comandantes",
+        "Los explotadores y comandantes de aeronaves públicas o privadas",
+        "Solo las autoridades aeronáuticas"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO VIII - BÚSQUEDA, ASISTENCIA, SALVAMENTO Y DESAPARICIÓN DE AERONAVES",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "¿Qué título regula los servicios aéreos?",
+      "opciones": [
+        "TÍTULO VII",
+        "TÍTULO VIII",
+        "TÍTULO IX",
+        "TÍTULO X"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO IX - SERVICIOS AÉREOS",
+      "subunidad": "Capítulo I - Generalidades",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 106, ¿qué requiere la explotación de actividad comercial aérea?",
+      "opciones": [
+        "Solo autorización",
+        "Solo concesión",
+        "Concesión o autorización conforme a las normas internacionales y prescripciones del Código",
+        "Solo registro"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO IX - SERVICIOS AÉREOS",
+      "subunidad": "Capítulo I - Generalidades",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "¿Qué título define el concepto de explotador?",
+      "opciones": [
+        "TÍTULO VIII",
+        "TÍTULO IX",
+        "TÍTULO X",
+        "TÍTULO XI"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO X - EXPLOTADOR",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 127, ¿qué es el explotador?",
+      "opciones": [
+        "Solo el propietario de la aeronave",
+        "La persona física o jurídica que utiliza la aeronave legítimamente por cuenta propia, con o sin fines de lucro",
+        "Solo el operador de la aeronave",
+        "Solo el arrendatario de la aeronave"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO X - EXPLOTADOR",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "¿Qué título regula los seguros en la aviación?",
+      "opciones": [
+        "TÍTULO XII",
+        "TÍTULO XIII",
+        "TÍTULO XIV",
+        "TÍTULO XV"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO XIV - SEGUROS",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 182, ¿qué seguros está obligado a contratar todo explotador?",
+      "opciones": [
+        "Solo el seguro de daños y perjuicios",
+        "Solo el seguro de accidentes al personal",
+        "Solo el seguro del casco",
+        "Seguros por daños y perjuicios, accidentes al personal y valor del casco"
+      ],
+      "opcion_correcta": 3,
+      "unidad": "TÍTULO XIV - SEGUROS",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "¿Qué título regula las infracciones administrativas?",
+      "opciones": [
+        "TÍTULO XIV",
+        "TÍTULO XV",
+        "TÍTULO XVI",
+        "TÍTULO XVII"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO XVI - INFRACCIONES ADMINISTRATIVAS",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 192, ¿cuáles son las sanciones por infracciones al código?",
+      "opciones": [
+        "Solo multa",
+        "Solo inhabilitación",
+        "Apercibimiento, multa, inhabilitación temporaria y cancelación de concesión",
+        "Solo cancelación de concesión"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO XVI - INFRACCIONES ADMINISTRATIVAS",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "¿Qué título regula los delitos contra la seguridad de la navegación aérea?",
+      "opciones": [
+        "TÍTULO XV",
+        "TÍTULO XVI",
+        "TÍTULO XVII",
+        "TÍTULO XVIII"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO XVII - DELITOS CONTRA LA SEGURIDAD DE LA NAVEGACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 198, ¿qué pena se aplica por violencia en aeronaves?",
+      "opciones": [
+        "De 3 a 12 meses de prisión",
+        "De 6 meses a 16 años de penitenciaría",
+        "De 1 a 5 años de prisión",
+        "Solo multa"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO XVII - DELITOS CONTRA LA SEGURIDAD DE LA NAVEGACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "¿Qué título contiene las disposiciones varias?",
+      "opciones": [
+        "TÍTULO XVI",
+        "TÍTULO XVII",
+        "TÍTULO XVIII",
+        "TÍTULO XIX"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO XVIII - DISPOSICIONES VARIAS",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 209, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 3, ¿qué se debe hacer si una cuestión no está prevista en el Código?",
+      "opciones": [
+        "Aplicar la legislación general",
+        "Acudir a los principios generales del derecho aeronáutico y a las normas internacionales aplicables",
+        "Dejar sin resolver la cuestión",
+        "Aplicar la legislación de otros países"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO I - DISPOSICIONES GENERALES",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 6, ¿qué aeronaves están exentas de las disposiciones del Código?",
+      "opciones": [
+        "Las aeronaves militares",
+        "Las aeronaves privadas",
+        "Las aeronaves de Estado que no sean militares",
+        "Las aeronaves deportivas"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO II - JURISDICCIÓN",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 9, ¿qué se requiere para la circulación aérea?",
+      "opciones": [
+        "Solo autorización",
+        "Solo registro",
+        "Autorización y registro previo",
+        "Solo notificación"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 13, ¿qué aeronaves pueden efectuar vuelos sin autorización previa?",
+      "opciones": [
+        "Las aeronaves militares",
+        "Las aeronaves en tránsito",
+        "Las aeronaves privadas",
+        "Las aeronaves de Estado"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 14, ¿qué se requiere para el transporte de pasajeros?",
+      "opciones": [
+        "Solo autorización",
+        "Solo registro",
+        "Autorización y registro previo",
+        "Solo notificación"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 15, ¿qué se requiere para el transporte de carga?",
+      "opciones": [
+        "Solo autorización",
+        "Solo registro",
+        "Autorización y registro previo",
+        "Solo notificación"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 16, ¿qué se requiere para el transporte de correo?",
+      "opciones": [
+        "Solo autorización",
+        "Solo registro",
+        "Autorización y registro previo",
+        "Solo notificación"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 17, ¿qué se requiere para el transporte de armas?",
+      "opciones": [
+        "Solo autorización",
+        "Solo registro",
+        "Autorización y registro previo",
+        "Solo notificación"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 18, ¿qué se requiere para el transporte de explosivos?",
+      "opciones": [
+        "Solo autorización",
+        "Solo registro",
+        "Autorización y registro previo",
+        "Solo notificación"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 19, ¿qué se requiere para el transporte de sustancias tóxicas?",
+      "opciones": [
+        "Solo autorización",
+        "Solo registro",
+        "Autorización y registro previo",
+        "Solo notificación"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 20, ¿qué se requiere para el transporte de sustancias radiactivas?",
+      "opciones": [
+        "Solo autorización",
+        "Solo registro",
+        "Autorización y registro previo",
+        "Solo notificación"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 21, ¿qué se requiere para el transporte de sustancias corrosivas?",
+      "opciones": [
+        "Solo autorización",
+        "Solo registro",
+        "Autorización y registro previo",
+        "Solo notificación"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 22, ¿qué se requiere para el transporte de sustancias inflamables?",
+      "opciones": [
+        "Solo autorización",
+        "Solo registro",
+        "Autorización y registro previo",
+        "Solo notificación"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 23, ¿qué se requiere para el transporte de sustancias comburentes?",
+      "opciones": [
+        "Solo autorización",
+        "Solo registro",
+        "Autorización y registro previo",
+        "Solo notificación"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 24, ¿qué se requiere para el transporte de sustancias asfixiantes?",
+      "opciones": [
+        "Solo autorización",
+        "Solo registro",
+        "Autorización y registro previo",
+        "Solo notificación"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 25, ¿qué se requiere para el transporte de sustancias venenosas?",
+      "opciones": [
+        "Solo autorización",
+        "Solo registro",
+        "Autorización y registro previo",
+        "Solo notificación"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 26, ¿qué se requiere para el transporte de sustancias infecciosas?",
+      "opciones": [
+        "Solo autorización",
+        "Solo registro",
+        "Autorización y registro previo",
+        "Solo notificación"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 27, ¿qué se requiere para el transporte de sustancias patógenas?",
+      "opciones": [
+        "Solo autorización",
+        "Solo registro",
+        "Autorización y registro previo",
+        "Solo notificación"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 33, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 34, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 35, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 36, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 37, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 38, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 39, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 40, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 41, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 42, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 43, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 44, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 45, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 46, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 47, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 48, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 49, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 50, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 51, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 52, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 53, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 54, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 55, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 56, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 57, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 58, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 59, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 60, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 61, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 62, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 68, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 69, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 70, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 71, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 72, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 73, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 74, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 75, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 76, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 77, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 78, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 79, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 80, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 85, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 87, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 90, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 91, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 97, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 98, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 99, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 100, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 101, ¿qué se requiere para la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo el certificado de aeronavegabilidad",
+        "El certificado de aeronavegabilidad y el certificado de matrícula",
+        "Solo el certificado de matrícula",
+        "Solo el certificado de registro"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 103, ¿quién ejerce la policía aérea nacional?",
+      "opciones": [
+        "La Policía Nacional",
+        "La Fuerza Aérea Militar",
+        "La Prefectura Nacional Naval",
+        "El Ministerio del Interior"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO XVIII - DISPOSICIONES VARIAS",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 208, ¿quién puede requisar aeronaves privadas nacionales?",
+      "opciones": [
+        "La autoridad aeronáutica",
+        "El Poder Ejecutivo",
+        "La Fuerza Aérea",
+        "El Ministerio del Interior"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO XVIII - DISPOSICIONES VARIAS",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 11, ¿qué aeronaves pueden ser obligadas a aterrizar?",
+      "opciones": [
+        "Las aeronaves nacionales",
+        "Las aeronaves privadas",
+        "Las aeronaves extranjeras que penetren sin autorización o infrinjan disposiciones sobre circulación aérea",
+        "Todas las aeronaves"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 12, ¿qué aeronaves se consideran en tránsito?",
+      "opciones": [
+        "Las aeronaves nacionales",
+        "Las aeronaves extranjeras que efectúen servicios regulares de transporte internacional",
+        "Solo las aeronaves militares",
+        "Solo las aeronaves privadas"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 29, ¿qué confiere la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo la matrícula",
+        "La nacionalidad uruguaya",
+        "Solo el certificado de aeronavegabilidad",
+        "Solo el permiso de operación"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 64, ¿qué es un aeropuerto?",
+      "opciones": [
+        "Cualquier área de tierra o agua",
+        "Un aeródromo público con instalaciones y servicios para atención de aeronaves y pasajeros",
+        "Solo un área de tierra",
+        "Solo un área de agua"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO V - INFRAESTRUCTURA",
+      "subunidad": "Capítulo II - Aeródromos y Aeropuertos",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 65, ¿cómo se clasifican los aeródromos?",
+      "opciones": [
+        "En nacionales e internacionales",
+        "En grandes y pequeños",
+        "En públicos, privados y militares",
+        "En comerciales y deportivos"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO V - INFRAESTRUCTURA",
+      "subunidad": "Capítulo II - Aeródromos y Aeropuertos",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 84, ¿quién designa al comandante de una aeronave?",
+      "opciones": [
+        "La autoridad aeronáutica",
+        "El propietario",
+        "El explotador",
+        "La tripulación"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO VI - PERSONAL AERONÁUTICO",
+      "subunidad": "Capítulo II - Comandante",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 86, ¿qué facultades tiene el comandante durante el viaje?",
+      "opciones": [
+        "Solo facultades administrativas",
+        "Poder disciplinario sobre la tripulación y autoridad sobre los pasajeros",
+        "Solo facultades comerciales",
+        "Solo facultades técnicas"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO VI - PERSONAL AERONÁUTICO",
+      "subunidad": "Capítulo II - Comandante",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 93, ¿qué organismo asesora en la investigación de accidentes?",
+      "opciones": [
+        "La Policía Nacional",
+        "El Centro Coordinador de Seguridad de Vuelo",
+        "La Fuerza Aérea",
+        "El Ministerio del Interior"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO VII - PREVENCIÓN E INVESTIGACIÓN DE ACCIDENTES",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 95, ¿quién está obligado a denunciar accidentes?",
+      "opciones": [
+        "Solo los propietarios",
+        "Solo los pilotos",
+        "Los propietarios, pilotos o explotadores de aeronaves",
+        "Solo las autoridades"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO VII - PREVENCIÓN E INVESTIGACIÓN DE ACCIDENTES",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 104, ¿en qué casos no existe obligación de prestar asistencia?",
+      "opciones": [
+        "En ningún caso",
+        "Cuando signifique peligro para el obligado o personas bajo su guarda, cuando ya haya sido prestada por otros o cuando la autoridad dispense",
+        "Solo cuando signifique peligro",
+        "Solo cuando la autoridad dispense"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO VIII - BÚSQUEDA, ASISTENCIA, SALVAMENTO Y DESAPARICIÓN DE AERONAVES",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 107, ¿cómo se clasifican los servicios aéreos?",
+      "opciones": [
+        "En nacionales e internacionales",
+        "En regulares y no regulares",
+        "En servicios de transporte aéreo público, servicios de trabajos aéreos y servicios aéreos privados",
+        "En comerciales y deportivos"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO IX - SERVICIOS AÉREOS",
+      "subunidad": "Capítulo I - Generalidades",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 108, ¿qué es un servicio de transporte aéreo público?",
+      "opciones": [
+        "Cualquier servicio aéreo",
+        "El transporte por vía aérea de pasajeros, equipajes, correo y carga, mediante remuneración",
+        "Solo el transporte de pasajeros",
+        "Solo el transporte de carga"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IX - SERVICIOS AÉREOS",
+      "subunidad": "Capítulo II - Servicios de Transporte Aéreo Público",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 183, ¿con quién deben contratarse los seguros cuando se trate de explotadores nacionales?",
+      "opciones": [
+        "Con cualquier aseguradora",
+        "Con el Banco de Seguros del Estado",
+        "Con aseguradoras internacionales",
+        "Con aseguradoras privadas"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO XIV - SEGUROS",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 184, ¿qué sucede si una aeronave no tiene los seguros previstos?",
+      "opciones": [
+        "Se le permite volar",
+        "Se le permite volar solo en territorio nacional",
+        "No se autoriza su circulación en el espacio aéreo nacional",
+        "Se le permite volar solo en emergencias"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO XIV - SEGUROS",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 193, ¿qué pena se aplica por violencia en aeronaves?",
+      "opciones": [
+        "De 3 a 12 meses de prisión",
+        "De 6 meses a 16 años de penitenciaría",
+        "De 1 a 5 años de prisión",
+        "Solo multa"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO XVII - DELITOS CONTRA LA SEGURIDAD DE LA NAVEGACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 199, ¿cuándo se considera que una aeronave está en vuelo?",
+      "opciones": [
+        "Desde que despega hasta que aterriza",
+        "Desde que se cierran todas sus puertas externas después del embarco hasta que se abre cualquiera de ellas para el desembarco",
+        "Solo durante el despegue y aterrizaje",
+        "Solo durante el crucero"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO XVII - DELITOS CONTRA LA SEGURIDAD DE LA NAVEGACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 200, ¿qué pena se aplica por actos que engendren peligro para la seguridad de una aeronave?",
+      "opciones": [
+        "De 3 a 12 meses de prisión",
+        "De 10 meses a 6 años de penitenciaría",
+        "De 1 a 5 años de prisión",
+        "Solo multa"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO XVII - DELITOS CONTRA LA SEGURIDAD DE LA NAVEGACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 210, ¿quién puede requisar aeronaves privadas nacionales?",
+      "opciones": [
+        "La autoridad aeronáutica",
+        "El Poder Ejecutivo",
+        "La Fuerza Aérea",
+        "El Ministerio del Interior"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO XVIII - DISPOSICIONES VARIAS",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 11, ¿qué aeronaves pueden ser obligadas a aterrizar?",
+      "opciones": [
+        "Las aeronaves nacionales",
+        "Las aeronaves privadas",
+        "Las aeronaves extranjeras que penetren sin autorización o infrinjan disposiciones sobre circulación aérea",
+        "Todas las aeronaves"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 12, ¿qué aeronaves se consideran en tránsito?",
+      "opciones": [
+        "Las aeronaves nacionales",
+        "Las aeronaves extranjeras que efectúen servicios regulares de transporte internacional",
+        "Solo las aeronaves militares",
+        "Solo las aeronaves privadas"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO III - CIRCULACIÓN AÉREA",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 30, ¿qué confiere la inscripción de una aeronave en el Registro Nacional de Aeronaves?",
+      "opciones": [
+        "Solo la matrícula",
+        "La nacionalidad uruguaya",
+        "Solo el certificado de aeronavegabilidad",
+        "Solo el permiso de operación"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IV - AERONAVES",
+      "subunidad": "Capítulo II - Nacionalidad y Matrícula",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 64, ¿qué es un aeropuerto?",
+      "opciones": [
+        "Cualquier área de tierra o agua",
+        "Un aeródromo público con instalaciones y servicios para atención de aeronaves y pasajeros",
+        "Solo un área de tierra",
+        "Solo un área de agua"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO V - INFRAESTRUCTURA",
+      "subunidad": "Capítulo II - Aeródromos y Aeropuertos",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 65, ¿cómo se clasifican los aeródromos?",
+      "opciones": [
+        "En nacionales e internacionales",
+        "En grandes y pequeños",
+        "En públicos, privados y militares",
+        "En comerciales y deportivos"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO V - INFRAESTRUCTURA",
+      "subunidad": "Capítulo II - Aeródromos y Aeropuertos",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 82, ¿cuándo tienen validez las patentes y licencias extranjeras?",
+      "opciones": [
+        "Nunca",
+        "Siempre",
+        "Cuando lo establezca una convención internacional o sean revalidadas por órganos nacionales",
+        "Solo cuando sean de países limítrofes"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO VI - PERSONAL AERONÁUTICO",
+      "subunidad": "Capítulo I - Generalidades",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 83, ¿quién puede ejercer funciones en aeronaves nacionales?",
+      "opciones": [
+        "Cualquier persona",
+        "Solo ciudadanos uruguayos",
+        "Solo extranjeros residentes",
+        "Solo personal militar"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO VI - PERSONAL AERONÁUTICO",
+      "subunidad": "Capítulo I - Generalidades",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 88, ¿qué obligación tiene el comandante antes de la partida?",
+      "opciones": [
+        "Solo verificar el combustible",
+        "Asegurarse de la eficiencia de la aeronave y condiciones de seguridad del vuelo",
+        "Solo verificar la documentación",
+        "Solo verificar la tripulación"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO VI - PERSONAL AERONÁUTICO",
+      "subunidad": "Capítulo II - Comandante",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 89, ¿qué derecho tiene el comandante durante el vuelo en caso de necesidad?",
+      "opciones": [
+        "Solo cambiar el rumbo",
+        "Adoptar toda medida tendiente a dar mayor seguridad al vuelo",
+        "Solo comunicarse con control aéreo",
+        "Solo aterrizar en emergencia"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO VI - PERSONAL AERONÁUTICO",
+      "subunidad": "Capítulo II - Comandante",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 94, ¿a qué aeronaves se aplican las disposiciones sobre investigación de accidentes?",
+      "opciones": [
+        "Solo a aeronaves civiles",
+        "A todas las aeronaves",
+        "A aeronaves militares solo cuando sean compatibles con sus servicios específicos",
+        "Solo a aeronaves comerciales"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO VII - PREVENCIÓN E INVESTIGACIÓN DE ACCIDENTES",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 96, ¿qué debe hacer la autoridad que tenga conocimiento de un accidente?",
+      "opciones": [
+        "Solo reportarlo",
+        "Comunicarlo a la autoridad aeronáutica más próxima y adoptar medidas urgentes",
+        "Solo esperar instrucciones",
+        "Solo documentarlo"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO VII - PREVENCIÓN E INVESTIGACIÓN DE ACCIDENTES",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 104, ¿qué responsabilidad tiene quien motiva una movilización culposa?",
+      "opciones": [
+        "Ninguna",
+        "Solo administrativa",
+        "Responder por los daños y perjuicios derivados",
+        "Solo penal"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO VIII - BÚSQUEDA, ASISTENCIA, SALVAMENTO Y DESAPARICIÓN DE AERONAVES",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 105, ¿cuándo se considera perdida una aeronave?",
+      "opciones": [
+        "Después de 30 días",
+        "Después de 60 días",
+        "Después de 90 días de la última noticia",
+        "Después de 120 días"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "TÍTULO VIII - BÚSQUEDA, ASISTENCIA, SALVAMENTO Y DESAPARICIÓN DE AERONAVES",
+      "subunidad": "Capítulo Único",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 109, ¿qué es un servicio de transporte aéreo interno?",
+      "opciones": [
+        "Cualquier servicio dentro del país",
+        "El efectuado entre puntos dentro de la República o entre éstos y zonas no sometidas a jurisdicción de ningún Estado",
+        "Solo el servicio entre ciudades del país",
+        "Solo el servicio de carga nacional"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IX - SERVICIOS AÉREOS",
+      "subunidad": "Capítulo II - Servicios de Transporte Aéreo Público",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 110, ¿qué es un servicio de transporte aéreo internacional?",
+      "opciones": [
+        "Cualquier servicio fuera del país",
+        "El efectuado entre uno o varios puntos de la República y otro u otros de territorios extranjeros",
+        "Solo el servicio entre países limítrofes",
+        "Solo el servicio de carga internacional"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IX - SERVICIOS AÉREOS",
+      "subunidad": "Capítulo II - Servicios de Transporte Aéreo Público",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 111, ¿qué es un servicio de transporte aéreo regular?",
+      "opciones": [
+        "Cualquier servicio programado",
+        "Aquel que se realiza entre dos o más puntos, ajustándose a horarios, tarifas e itinerarios predeterminados",
+        "Solo el servicio de pasajeros",
+        "Solo el servicio de carga"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "TÍTULO IX - SERVICIOS AÉREOS",
+      "subunidad": "Capítulo II - Servicios de Transporte Aéreo Público",
+      "modulo": "Código Aeronáutico Uruguayo"
+    },
+    {
+      "pregunta": "Según el Artículo 11

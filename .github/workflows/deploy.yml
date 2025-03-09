@@ -1,0 +1,58 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # O 'master', según la rama principal de tu repo
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write  # Requerido para autenticación con GitHub Pages
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Copy static files
+        run: |
+          mkdir -p public/modulos public/pruebas
+          cp -r src/modulos/*.json public/modulos/ || true
+          cp -r src/pruebas/*.json public/pruebas/ || true
+
+      - name: Build
+        run: npm run build
+        env:
+          BASE_URL: "/${{ github.event.repository.name }}"  # Asegura que el sitio tenga la base correcta
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v4  # Versión actualizada
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3  # Versión actualizada
+        with:
+          path: ./dist  # Ajusta si tu build genera archivos en otro directorio
+
+  deploy:
+    needs: build-and-deploy
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4  # Versión actualizada
