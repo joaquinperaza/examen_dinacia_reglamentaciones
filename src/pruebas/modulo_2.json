@@ -1,0 +1,18 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "Según el LAR 61, ¿cuál es la edad mínima para obtener una licencia de piloto privado?",
+      "opciones": [
+        "16 años",
+        "17 años",
+        "18 años",
+        "21 años"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "‌Capítulo B:Licencias y habilitaciones para pilotos",
+      "subunidad": "61.505   Requisitos de idoneidad: Generalidades",
+      "modulo": "Reglamento LAR 61"
+    }
+    
+  ]
+}

@@ -9,7 +9,7 @@ const App = () => {
     <Router basename={basePath}>
       <div className="min-h-screen bg-gray-50 flex flex-col">
         <nav className="bg-white shadow-md p-4">
-          <h1 className="text-2xl font-bold">Curso Aeronáutico</h1>
+          <h1 className="text-2xl font-bold">Curso Examen Libre: Reglamentaciones Aeronáuticas Uruguayas</h1>
         </nav>
         
         <main className="container mx-auto py-8 flex-grow">
