@@ -8,7 +8,7 @@ export const fetchModulos = async (): Promise<Modulo[]> => {
     // Intentamos cargar módulos del 1 al 10 (puedes ajustar este número)
     for (let i = 1; i <= 10; i++) {
       try {
-        const response = await fetch(`/src/modulos/modulo_${i}.json`);
+        const response = await fetch(`/examen_dinacia_reglamentaciones/modulos/modulo_${i}.json`);
         if (response.ok) {
           const data = await response.json();
           modulos.push(data);
@@ -28,7 +28,7 @@ export const fetchModulos = async (): Promise<Modulo[]> => {
 
 export const fetchPruebas = async (moduloId: string): Promise<any> => {
   try {
-    const response = await fetch(`/src/pruebas/prueba_${moduloId}.json`);
+    const response = await fetch(`/examen_dinacia_reglamentaciones/pruebas/prueba_${moduloId}.json`);
     const data = await response.json();
     return data;
   } catch (error) {

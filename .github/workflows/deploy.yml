@@ -29,8 +29,8 @@ jobs:
       - name: Copy static files
         run: |
           mkdir -p public/modulos public/pruebas
-          cp -r src/modulos/*.json public/modulos/ || true
-          cp -r src/pruebas/*.json public/pruebas/ || true
+          cp -r examen_dinacia_reglamentaciones/modulos/*.json public/modulos/ || true
+          cp -r examen_dinacia_reglamentaciones/pruebas/*.json public/pruebas/ || true
 
       - name: Build
         run: npm run build
