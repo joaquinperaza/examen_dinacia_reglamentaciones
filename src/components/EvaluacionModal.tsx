@@ -65,6 +65,7 @@ const EvaluacionModal = ({ unidad, onComplete, onClose }: EvaluacionModalProps) 
   const [showResults, setShowResults] = useState(false);
   const [referencias, setReferencias] = useState<string[]>([]);
   const [preguntasUnidad, setPreguntasUnidad] = useState<Pregunta[]>([]);
+  const [preguntasIncorrectas, setPreguntasIncorrectas] = useState<Pregunta[]>([]);
 
   useEffect(() => {
     const cargarPreguntas = async () => {
@@ -92,6 +93,7 @@ const EvaluacionModal = ({ unidad, onComplete, onClose }: EvaluacionModalProps) 
     const preguntaActual = preguntasUnidad[currentQuestion];
     if (respuestaIndex !== preguntaActual.opcion_correcta) {
       setReferencias([...referencias, preguntaActual.subunidad]);
+      setPreguntasIncorrectas([...preguntasIncorrectas, preguntaActual]);
     }
 
     if (currentQuestion < preguntasUnidad.length - 1) {
@@ -158,6 +160,22 @@ const EvaluacionModal = ({ unidad, onComplete, onClose }: EvaluacionModalProps) 
                 ).length
               } de {preguntasUnidad.length}
             </p>
+            
+            {preguntasIncorrectas.length > 0 && (
+              <div className="mt-4">
+                <p className="font-bold">Preguntas incorrectas:</p>
+                <ul className="list-disc pl-5 mb-4">
+                  {preguntasIncorrectas.map((pregunta, index) => (
+                    <li key={index} className="mb-2">
+                      <p>{pregunta.pregunta}</p>
+                      <p className="text-red-500">Tu respuesta: {pregunta.opciones[respuestas[preguntasUnidad.findIndex(p => p === pregunta)]]}</p>
+                      <p className="text-green-500">Respuesta correcta: {pregunta.opciones[pregunta.opcion_correcta]}</p>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+
             {referencias.length > 0 && (
               <div className="mt-4">
                 <p className="font-bold">Material de referencia para repasar:</p>
@@ -181,6 +199,7 @@ const EvaluacionModal = ({ unidad, onComplete, onClose }: EvaluacionModalProps) 
                 </ul>
               </div>
             )}
+            
             <button
               className="mt-4 px-4 py-2 bg-blue-500 text-white rounded"
               onClick={onClose}

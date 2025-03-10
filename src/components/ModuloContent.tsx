@@ -51,12 +51,12 @@ const ModuloContent = () => {
   };
 
   return (
-    <div className="max-w-4xl mx-auto p-4">
+    <div className="max-w-7xl mx-auto p-4">
       <h1 className="text-2xl font-bold mb-4">{modulo.nombre}</h1>
       
       <div className="flex gap-4">
         {/* Sidebar con navegación */}
-        <div className="w-1/4">
+        <div className="w-64 flex-shrink-0">
           {modulo.unidades.map((unidad, uIndex) => (
             <div key={uIndex} className="mb-2">
               <button
@@ -75,7 +75,7 @@ const ModuloContent = () => {
         </div>
 
         {/* Contenido principal */}
-        <div className="w-3/4">
+        <div className="flex-1">
           <h2 className="text-xl font-bold mb-2">{currentUnidadContent.nombre}</h2>
           
           {/* Navegación de subunidades */}

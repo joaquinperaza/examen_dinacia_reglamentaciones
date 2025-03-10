@@ -8,7 +8,7 @@ Este repositorio contiene el Código Aeronáutico Uruguayo en formato JSON, incl
 
 ## ⚠️ Aviso Importante
 
-Este material es una ayuda de estudio generada por Curse AI y no constituye una fuente oficial. Se recomienda encarecidamente:
+Este material es una ayuda de estudio generada por Cursor AI y no constituye una fuente oficial. Se recomienda encarecidamente:
 
 - Consultar siempre la legislación oficial vigente
 - Verificar la información con fuentes oficiales

@@ -1,0 +1,1348 @@
+{
+    "preguntas": [
+      {
+        "pregunta": "¿A quién se debe presentar el plan de vuelo antes de la salida, en ausencia de una oficina de notificación en el aeródromo?",
+        "opciones": [
+          "A la dependencia ATS más cercana.",
+          "A la dependencia ATS designada para servir al aeródromo de salida.",
+          "Directamente a la torre de control.",
+          "Al centro de control de área (ACC)."
+        ],
+        "opcion_correcta": 1,
+        "unidad": "PLAN DE VUELO",
+        "subunidad": "Presentación del plan de vuelo",
+        "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      },
+      {
+        "pregunta": "En caso de demora, ¿qué debe hacerse con un plan de vuelo presentado para un vuelo controlado?",
+        "opciones": [
+          "No es necesario hacer nada si la demora es menor a una hora.",
+          "Enmendar el plan de vuelo o presentar uno nuevo si la demora es mayor a 30 minutos respecto a la hora prevista de fuera calzos.",
+          "Cancelar el plan de vuelo independientemente del tiempo de demora.",
+          "Notificar verbalmente a la torre de control."
+        ],
+        "opcion_correcta": 1,
+        "unidad": "PLAN DE VUELO",
+        "subunidad": "Presentación del plan de vuelo",
+        "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      },
+      {
+        "pregunta": "¿Cuál es el objetivo principal de las autorizaciones de control de tránsito aéreo (ATC)?",
+        "opciones": [
+          "Garantizar que los pilotos cumplan con los horarios.",
+          "Prevenir colisiones, acelerar y mantener ordenado el movimiento del tránsito aéreo.",
+          "Asignar rutas de vuelo óptimas en términos de combustible.",
+          "Controlar el tráfico de vehículos en el área de maniobras."
+        ],
+        "opcion_correcta": 1,
+        "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+        "subunidad": "Alcance y objetivo",
+        "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      },
+      {
+        "pregunta": "Si una autorización ATC no es conveniente para el piloto al mando, ¿qué puede hacer?",
+        "opciones": [
+          "Debe cumplirla obligatoriamente.",
+          "Puede solicitar y, si es factible, obtener una autorización enmendada.",
+          "Puede ignorarla y proceder según su propio criterio.",
+          "Debe notificar a la autoridad aeronáutica superior."
+        ],
+        "opcion_correcta": 1,
+        "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+        "subunidad": "Alcance y objetivo",
+        "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      },
+      {
+        "pregunta": "¿Qué elementos deben colacionarse *siempre* al controlador de tránsito aéreo?",
+        "opciones": [
+          "Solo las autorizaciones de ruta ATC.",
+          "Solo las instrucciones para entrar o aterrizar en una pista.",
+          "Autorizaciones de ruta ATC, instrucciones de pista, reglajes de altímetro, códigos SSR, instrucciones de nivel, rumbo y velocidad, y niveles de transición.",
+          "Cualquier instrucción recibida, sin importar su contenido."
+        ],
+        "opcion_correcta": 2,
+        "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+        "subunidad": "Descripción de las autorizaciones de control de tránsito aéreo",
+        "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      },
+      {
+        "pregunta": "¿En qué múltiplos se expresan los ajustes de velocidad a niveles iguales o superiores a 7600 m (FL 250)?",
+        "opciones": [
+          "Múltiplos de 10 km/h (5 kt) IAS.",
+          "Múltiplos de 20 km/h (10 kt) IAS.",
+          "Múltiplos de 0.1 Mach.",
+          "Múltiplos de 0.01 Mach."
+        ],
+        "opcion_correcta": 3,
+        "unidad": "INSTRUCCIONES PARA CONTROL DE LA VELOCIDAD HORIZONTAL",
+        "subunidad": "Generalidades",
+        "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      },
+        {
+        "pregunta": "Después de pasar un punto a 7 Km (4 NM) del umbral en la aproximación final, ¿se puede aplicar el control de velocidad?",
+        "opciones": [
+          "Sí, siempre que sea necesario.",
+          "Sí, pero solo con autorización del piloto.",
+          "No, no se debería aplicar.",
+          "Sí, pero solo con autorización del control de aproximación."
+        ],
+        "opcion_correcta": 2,
+        "unidad": "INSTRUCCIONES PARA CONTROL DE LA VELOCIDAD HORIZONTAL",
+        "subunidad": "Aeronaves descendiendo y a la llegada",
+        "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      },
+      {
+        "pregunta": "¿Qué debe hacer la tripulación de vuelo si no puede cumplir con una instrucción de velocidad?",
+        "opciones": [
+          "Intentar cumplirla de todas formas.",
+          "Informar a la dependencia ATC interesada.",
+          "Ajustar la velocidad a la más cercana posible.",
+          "Ignorar la instrucción y mantener la velocidad actual."
+        ],
+        "opcion_correcta": 1,
+        "unidad": "INSTRUCCIONES PARA CONTROL DE LA VELOCIDAD HORIZONTAL",
+        "subunidad": "Generalidades",
+        "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      },
+      {
+        "pregunta": "¿Qué debe hacer la tripulación si no puede cumplir con una determinada velocidad vertical de ascenso o descenso?",
+        "opciones":[
+          "Acatar la orden",
+          "Informar a la dependencia ATC",
+          "Hacer caso omiso",
+          "Aumentar la velocidad"
+        ],
+        "opcion_correcta": 1,
+        "unidad": "INSTRUCCIONES PARA CONTROL DE LA VELOCIDAD VERTICAL",
+        "subunidad": "Generalidades",
+        "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+  
+      },
+        {
+        "pregunta": "¿Cómo debe expresarse un cambio de vuelo IFR a VFR?",
+        "opciones": [
+          "Con un mensaje implícito del piloto.",
+          "Con un mensaje que contenga la expresión “CANCELO MI VUELO IFR”.",
+          "Con una solicitud de cambio de altitud.",
+          "No es posible cambiar de IFR a VFR durante el vuelo."
+        ],
+        "opcion_correcta": 1,
+        "unidad": "CAMBIO DE VUELO IFR A VFR",
+        "subunidad": "Contenido",
+        "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      },
+        {
+        "pregunta": "Las mínimas de separación por estela turbulenta se basan en la clasificación de tipos de aeronaves. ¿Cuántas categorías existen?",
+        "opciones": [
+          "1",
+          "2",
+          "3",
+          "4"
+        ],
+        "opcion_correcta": 2,
+        "unidad": "CATEGORÍAS DE ESTELA TURBULENTA",
+        "subunidad": "Categorías de estela turbulenta de las aeronaves",
+        "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+        },
+        {
+          "pregunta": "¿Qué palabra se debe incluir después del distintivo de llamada de una aeronave de categoría de estela turbulenta pesada al hacer contacto inicial con ATS?",
+          "opciones":[
+            "Pesada",
+            "Estela",
+            "Turbulencia",
+            "Precaución"
+          ],
+          "opcion_correcta":0,
+          "unidad": "CATEGORÍAS DE ESTELA TURBULENTA",
+          "subunidad": "Indicación de la categoría pesada de estela turbulenta",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+        },
+        {
+          "pregunta": "¿En qué se expresa la posición vertical de las aeronaves durante vuelos en las proximidades de aeródromos, dentro de las áreas de control terminal y por debajo de la altitud de transición?",
+          "opciones":[
+            "Altitudes",
+            "Niveles de vuelo",
+            "Altura",
+            "Depende del caso"
+          ],
+          "opcion_correcta": 0,
+          "unidad":"PROCEDIMIENTOS DE REGLAJE DE ALTÍMETRO",
+          "subunidad": "Expresión de la posición vertical de las aeronaves",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+        },
+         {
+          "pregunta": "Cuando una aeronave, a la que se le ha dado autorización de aterrizar, está concluyendo su aproximación empleando presión atmosférica a la elevación del aeródromo (QFE), su posición en el plano vertical se expresará:",
+          "opciones":[
+            "En función de la altura sobre la elevación del aeródromo.",
+            "En función de la altura sobre la elevación del umbral de pista en los casos indicados.",
+            "A y B son correctas.",
+            "Ninguna es correcta."
+          ],
+          "opcion_correcta": 2,
+          "unidad":"PROCEDIMIENTOS DE REGLAJE DE ALTÍMETRO",
+          "subunidad": "Expresión de la posición vertical de las aeronaves",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+        },
+        {
+          "pregunta": "Para vuelos en ruta, ¿en qué se expresa la posición vertical de la aeronave cuando se encuentra por debajo del nivel más bajo de vuelo utilizable?",
+          "opciones":[
+            "Niveles de vuelo",
+            "Altitudes",
+            "Depende de la altitud de transicion",
+            "Metros"
+          ],
+          "opcion_correcta": 1,
+           "unidad":"PROCEDIMIENTOS DE REGLAJE DE ALTÍMETRO",
+          "subunidad": "Expresión de la posición vertical de las aeronaves",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+        },
+        {
+          "pregunta": "¿Quién determina el nivel de transición a utilizar en las proximidades del aeródromo?",
+          "opciones":[
+            "La torre de control de aeródromo",
+            "Las dependencias ATS apropiadas",
+            "El piloto al mando",
+            "El centro de control de área"
+          ],
+          "opcion_correcta": 1,
+          "unidad":"PROCEDIMIENTOS DE REGLAJE DE ALTÍMETRO",
+          "subunidad": "Determinación del nivel de transición",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+        },
+        {
+          "pregunta":"¿Cuál es el nivel de transición?",
+          "opciones":[
+            "El nivel de vuelo más alto utilizable para uso sobre la altitud de transición.",
+            "El nivel de vuelo más bajo utilizable para uso sobre la altitud de transición.",
+            "La altitud más baja utilizable.",
+            "La altitud más alta utilizable."
+          ],
+          "opcion_correcta": 1,
+          "unidad":"PROCEDIMIENTOS DE REGLAJE DE ALTÍMETRO",
+          "subunidad": "Determinación del nivel de transición",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+        },
+        {
+          "pregunta": "¿Se pueden asignar niveles de crucero por debajo de las altitudes mínimas de vuelo establecidas por el Estado?",
+          "opciones":[
+            "Sí, siempre",
+            "No, nunca",
+            "Solo en casos excepcionales y con expresa autorización de la autoridad competente",
+            "Solo para vuelos VFR"
+          ],
+          "opcion_correcta": 2,
+          "unidad":"PROCEDIMIENTOS DE REGLAJE DE ALTÍMETRO",
+          "subunidad": "Nivel mínimo de crucero para vuelo IFR",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+        },
+        {
+          "pregunta": "La información acerca del progreso efectivo de los vuelos, será anotada por:",
+          "opciones":[
+            "La dependencia de los servicios de tránsito aéreo que atiende a la FIR",
+            "La torre de control",
+            "La tripulación de vuelo",
+            "El centro de busqueda y salvamento"
+          ],
+          "opcion_correcta": 0,
+          "unidad":"SERVICIO DE INFORMACIÓN DE VUELO",
+          "subunidad": "Anotación y transmisión de información relativa al progreso de los vuelos",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+        },
+        {
+          "pregunta":"¿Cuándo pasa la responsabilidad de suministrar servicio de información de vuelo de una FIR a otra?",
+          "opciones":[
+             "En el momento de despegar.",
+             "Al cruzar el límite común de las FIR.",
+             "Al contactar con la nueva FIR.",
+             "Cuando lo indique el piloto."
+          ],
+          "opcion_correcta": 1,
+          "unidad":"SERVICIO DE INFORMACIÓN DE VUELO",
+          "subunidad": "Transferencia de responsabilidad en cuanto al suministro de servicios de información de vuelo",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+  
+        },
+        {
+          "pregunta": "¿Cuál es el método preferido para difundir información a las aeronaves, según el documento?",
+          "opciones":[
+            "Una llamada general.",
+            "Radiodifusión.",
+            "Transmisión directa por iniciativa de la dependencia ATS, con acuse de recibo.",
+            "Enlace de datos."
+          ],
+          "opcion_correcta": 2,
+          "unidad":"SERVICIO DE INFORMACIÓN DE VUELO",
+          "subunidad": "Transmisión de información",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+        },
+        {
+          "pregunta": "¿Durante cuánto tiempo después de su expedición se deben difundir las aeronotificaciones especiales a las aeronaves?",
+          "opciones":[
+            "15 minutos.",
+            "30 minutos.",
+            "60 minutos.",
+            "120 minutos."
+          ],
+          "opcion_correcta": 2,
+          "unidad":"SERVICIO DE INFORMACIÓN DE VUELO",
+          "subunidad": "Transmisión de información",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+        },
+        {
+          "pregunta": "¿Cuál es el propósito del servicio de asesoramiento de tránsito aéreo?",
+          "opciones":[
+            "Reemplazar al servicio de control de tránsito aéreo.",
+            "Proporcionar información más eficaz sobre peligros de colisión que el servicio de información de vuelo.",
+            "Autorizar maniobras a las aeronaves.",
+            "Controlar el tráfico aéreo en espacio aéreo no controlado."
+          ],
+          "opcion_correcta": 1,
+           "unidad":"SERVICIO DE INFORMACIÓN DE VUELO",
+          "subunidad": "Servicio de asesoramiento de tránsito aéreo",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+        },
+         {
+          "pregunta": "Los vuelos IFR que utilicen el servicio de asesoramiento de tránsito aéreo en espacio aéreo de Clase F, se espera que:",
+          "opciones":[
+            "Cumplan con procedimientos distintos a los vuelos controlados.",
+            "Cumplan con los mismos procedimientos que los vuelos controlados, salvo ciertas excepciones.",
+            "No estén sujetos a ningún procedimiento.",
+            "Tengan prioridad sobre los vuelos VFR."
+          ],
+          "opcion_correcta": 1,
+           "unidad":"SERVICIO DE INFORMACIÓN DE VUELO",
+          "subunidad": "Servicio de asesoramiento de tránsito aéreo",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+         },
+         {
+          "pregunta": "Las aeronaves que deseen efectuar vuelos IFR dentro del espacio aéreo con servicio de asesoramiento y no deseen utilizar el servicio de asesoramiento de tránsito aéreo:",
+          "opciones":[
+            "No pueden volar en ese espacio aéreo.",
+            "Deben presentar un plan de vuelo y notificar los cambios al mismo.",
+            "No necesitan presentar un plan de vuelo.",
+            "Deben volar bajo reglas VFR."
+          ],
+          "opcion_correcta": 1,
+           "unidad":"SERVICIO DE INFORMACIÓN DE VUELO",
+          "subunidad": "Servicio de asesoramiento de tránsito aéreo",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+         },
+         {
+          "pregunta": "¿Qué deben hacer los vuelos IFR que proyecten cruzar una ruta con servicio de asesoramiento?",
+          "opciones":[
+            "Cruzarla a cualquier ángulo.",
+            "Cruzarla lo más aproximadamente posible a un ángulo de 90°.",
+            "Evitar cruzar la ruta.",
+            "Solicitar autorización para cruzarla."
+          ],
+          "opcion_correcta": 1,
+           "unidad":"SERVICIO DE INFORMACIÓN DE VUELO",
+          "subunidad": "Servicio de asesoramiento de tránsito aéreo",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+         },
+         {
+          "pregunta":"La dependencia encargada de prestar el servicio de alerta:",
+          "opciones":[
+            "Notificará la fase o fases de emergencia unicamente a los centros coordinadores de salvamento",
+            "Notificará a todas las dependencias la fase o fases de emergencia.",
+            "Notificará a las dependencias que presten el servicio de alerta en otras FIR, además de comunicarlas a los centros coordinadores de búsqueda y salvamento correspondientes",
+            "Ninguna de las anteriores."
+          ],
+          "opcion_correcta": 2,
+           "unidad":"SERVICIO DE ALERTA",
+          "subunidad": "Dependencias de los servicios de tránsito aéreo",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+         },
+         {
+          "pregunta": "La fraseología incluida en la Sección 12.3:",
+          "opciones":[
+            "Incluye las frases y palabras de los procedimientos radiotelefónicos contenidos en el Anexo 10, Volumen II.",
+            "No incluye las frases ni las palabras corrientes de los procedimientos radiotelefónicos contenidas en el Anexo 10, Volumen II.",
+            "Incluye unicamente frases que han de usar los pilotos.",
+            "Ninguna de las anteriores es correcta."
+          ],
+          "opcion_correcta": 1,
+           "unidad":"PROCEDIMIENTOS DE COMUNICACIONES",
+          "subunidad": "GENERALIDADES",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+         },
+         {
+          "pregunta":"Las frases condicionales, como 'detrás de la aeronave que aterriza' o 'después de la aeronave que sale':",
+          "opciones":[
+            "Se utilizarán siempre para movimientos que afecten a las pistas en actividad.",
+            "Se pueden utilizar para movimientos que afecten la pista o pistas en actividad, siempre que la aeronave esté a la vista del controlador y del piloto.",
+            "No se utilizarán nunca.",
+            "Solo se utilizarán cuando la visibilidad sea reducida."
+          ],
+          "opcion_correcta": 1,
+           "unidad":"PROCEDIMIENTOS DE COMUNICACIONES",
+          "subunidad": "GENERALIDADES",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+         },
+         {
+             "pregunta": "En una autorización condicional, ¿cuál es el orden correcto de los elementos?",
+             "opciones":[
+                  "Condición, autorización, identificación, repetición de la condición.",
+                  "Identificación, autorización, condición, repetición de la condición.",
+                  "Identificación, condición, autorización, repetición de la condición.",
+                  "Autorización, condición, identificación, repetición de la condición."
+             ],
+             "opcion_correcta": 2,
+             "unidad":"PROCEDIMIENTOS DE COMUNICACIONES",
+             "subunidad": "GENERALIDADES",
+             "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+         },
+         {
+          "pregunta": "En la fraseología bilingüe ATC, la frase 'REQUEST LEVEL CHANGE FROM (name of unit) [AT (time or significant point)];' se traduce como:",
+          "opciones":[
+            "SOLICITE CAMBIO DE NIVEL (o NIVEL DE VUELO o ALTITUD) A (nombre de la dependencia) [A LAS (hora) (o en punto significativo)];",
+            "CAMBIO DE NIVEL SOLICITADO (o NIVEL DE VUELO o ALTITUD) A (nombre de la dependencia) [A LAS (hora) (o en punto significativo)];",
+            "SOLICITANDO CAMBIO DE NIVEL (o NIVEL DE VUELO o ALTITUD) [A LAS (hora) (o en punto significativo)];",
+            "Ninguna de las anteriores"
+          ],
+          "opcion_correcta":0,
+          "unidad":"FRASEOLOGÍA BILINGÜE ATC",
+          "subunidad": "Generalidades",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+         },
+         {
+          "pregunta":"Cuando se realizan operaciones en un espacio aéreo de separación vertical mínima reducida (RVSM) con aeronaves sin aprobación para operaciones RVSM o en tránsito vertical a través del mismo, ¿En que momento los pilotos notificarán la condición de aeronave sin aprobación RVSM?",
+          "opciones":[
+            "Solo en una llamada inicial en cualquier canal dentro del espacio aéreo RVSM.",
+            "Solo en todas las solicitudes de cambio de nivel.",
+            "Solo en todas las colaciones de autorizaciones de nivel.",
+            "En los tres casos mencionados."
+          ],
+          "opcion_correcta": 3,
+          "unidad":"PROCEDIMIENTOS DE COMUNICACIONES",
+          "subunidad": "GENERALIDADES",
+          "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+         },
+         {
+            "pregunta": "¿A quién se debe presentar el plan de vuelo antes de la salida, en ausencia de una oficina de notificación en el aeródromo?",
+            "opciones": [
+              "A la dependencia ATS más cercana.",
+              "A la dependencia ATS designada para servir al aeródromo de salida.",
+              "Directamente a la torre de control.",
+              "Al centro de control de área (ACC)."
+            ],
+            "opcion_correcta": 1,
+            "unidad": "PLAN DE VUELO",
+            "subunidad": "Presentación del plan de vuelo",
+            "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+          {
+            "pregunta": "En caso de demora de más de una hora para un vuelo *no* controlado, ¿qué se debe hacer con el plan de vuelo?",
+            "opciones": [
+              "No es necesario hacer nada.",
+              "Enmendar el plan de vuelo.",
+              "Presentar un nuevo plan de vuelo y cancelar el antiguo.",
+              "Ambas, enmendar o presentar un nuevo plan, según proceda."
+            ],
+            "opcion_correcta": 3,
+            "unidad": "PLAN DE VUELO",
+            "subunidad": "Presentación del plan de vuelo",
+            "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+          {
+            "pregunta": "Si no es posible transmitir el plan de vuelo durante el vuelo a la dependencia ATS a cargo, ¿qué se debe hacer?",
+            "opciones": [
+              "Cancelar el vuelo.",
+              "Transmitirlo a otra dependencia ATS o estación de telecomunicaciones para su retransmisión.",
+              "Continuar el vuelo sin plan de vuelo.",
+              "Aterrizar en el aeródromo más cercano."
+            ],
+            "opcion_correcta": 1,
+            "unidad": "PLAN DE VUELO",
+            "subunidad": "Presentación del plan de vuelo",
+            "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+          {
+            "pregunta": "¿Qué debe hacer la primera dependencia ATS que recibe un plan de vuelo?",
+            "opciones": [
+              "Comprobar el formato y la completitud.",
+              "Indicar al remitente la aceptación.",
+              "Tomar medidas para hacerlo aceptable a los servicios de tránsito aéreo, si es necesario.",
+              "Todas las anteriores."
+            ],
+            "opcion_correcta": 3,
+            "unidad": "PLAN DE VUELO",
+            "subunidad": "Aceptación de los planes de vuelo",
+            "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+          {
+              "pregunta": "Además de prevenir colisiones, ¿cuál es otro objetivo fundamental de las autorizaciones ATC?",
+              "opciones": [
+                "Asegurar la puntualidad de los vuelos.",
+                "Acelerar y mantener el movimiento ordenado del tránsito aéreo.",
+                "Minimizar el consumo de combustible.",
+                "Maximizar la ocupación de las aeronaves."
+              ],
+              "opcion_correcta": 1,
+              "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+              "subunidad": "Alcance y objetivo",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+            {
+              "pregunta": "¿Eximen las autorizaciones ATC al piloto al mando de su responsabilidad en caso de transgredir reglas?",
+              "opciones": [
+                "Sí, siempre.",
+                "No, nunca.",
+                "Solo si la autorización fue emitida por error.",
+                "Solo en vuelos internacionales."
+              ],
+              "opcion_correcta": 1,
+              "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+              "subunidad": "Alcance y objetivo",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+            },
+             {
+              "pregunta": "Si un vuelo está sujeto a ATC solo en la parte *inicial* del vuelo, ¿hasta dónde se extenderá normalmente la autorización?",
+              "opciones":[
+                "Hasta el primer punto de notificación.",
+                "Hasta el punto donde termina el vuelo controlado.",
+                "Hasta el aeródromo de destino.",
+                "Hasta la mitad del vuelo."
+              ],
+              "opcion_correcta": 1,
+              "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+              "subunidad": "Aeronaves sujetas al ATC en parte del vuelo",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+            },
+            {
+              "pregunta": "En vuelos con escalas y planes de vuelo para cada etapa, ¿cuándo se expiden las autorizaciones?",
+              "opciones":[
+                "Todas al inicio del primer vuelo.",
+                "Una para cada etapa, después de la salida del aeródromo correspondiente.",
+                "Una autorización global al principio, y luego confirmaciones.",
+                "Solo para la primera y última etapa."
+              ],
+              "opcion_correcta": 1,
+              "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+              "subunidad": "Vuelos con escalas",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+            },
+            {
+              "pregunta": "Si una aeronave opera según un horario establecido y la ruta atraviesa varias áreas de control, ¿se puede autorizar con escalas?",
+              "opciones": [
+                "No, nunca.",
+                "Sí, siempre.",
+                "Sí, pero solo después de coordinar entre los ACC interesados.",
+                "Solo si el vuelo es internacional."
+              ],
+              "opcion_correcta": 2,
+              "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+              "subunidad": "Vuelos con escalas",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+          {
+              "pregunta": "¿Qué se incluye *siempre* en las autorizaciones ATC?",
+              "opciones":[
+                "Datos meteorológicos detallados.",
+                "Datos seguros y concisos, en forma normalizada en lo posible.",
+                "Instrucciones sobre el tipo de combustible a usar.",
+                "Información sobre otros vuelos cercanos."
+              ],
+              "opcion_correcta": 1,
+              "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+              "subunidad": "Contenido de las autorizaciones",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+          {
+              "pregunta": "Después de la autorización inicial, ¿quién es responsable de emitir autorizaciones enmendadas e información de tránsito?",
+              "opciones":[
+                "La torre de control.",
+                "La dependencia ATC apropiada.",
+                "El piloto al mando.",
+                "El centro de información de vuelo."
+              ],
+              "opcion_correcta": 1,
+               "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+              "subunidad": "Aeronaves en ruta",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+           {
+              "pregunta": "¿Se puede autorizar a una aeronave a ascender en crucero?",
+              "opciones":[
+                "No, nunca.",
+                "Sí, siempre.",
+                "Sí, si las condiciones del tránsito y la coordinación lo permiten.",
+                "Solo si el vuelo es de larga distancia."
+              ],
+              "opcion_correcta": 2,
+               "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+              "subunidad": "Aeronaves en ruta",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+          {
+              "pregunta": "En vuelos supersónicos, ¿qué tipo de autorización se debe recibir antes de la salida, siempre que sea posible?",
+              "opciones": [
+                "Autorización para la fase de crucero.",
+                "Autorización para la fase de aceleración transónica.",
+                "Autorización para la fase de descenso.",
+                "No se requiere autorización especial."
+              ],
+              "opcion_correcta": 1,
+              "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+              "subunidad": "Aeronaves en ruta",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+          {
+             "pregunta": "Durante las fases transónica y supersónica del vuelo, las enmiendas de autorización:",
+             "opciones":[
+              "Deben ser frecuentes.",
+              "Deben reducirse al mínimo.",
+              "No están permitidas.",
+              "Son a discreción del piloto."
+             ],
+             "opcion_correcta": 1,
+             "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+             "subunidad": "Aeronaves en ruta",
+             "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+          {
+              "pregunta": "¿Cómo se describe el límite de la autorización?",
+              "opciones":[
+                "Mediante coordenadas geográficas.",
+                "Especificando el nombre del punto significativo, aeródromo o límite del espacio aéreo controlado.",
+                "Con la altitud máxima permitida.",
+                "Con la velocidad máxima permitida."
+              ],
+              "opcion_correcta": 1,
+              "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+              "subunidad": "Descripción de las autorizaciones de control de tránsito aéreo",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      
+          },
+          {
+              "pregunta": "Cuando el aeródromo de destino está fuera del espacio aéreo controlado, ¿quién expide la autorización y hasta dónde?",
+              "opciones":[
+                "La torre de control del aeródromo de salida, hasta el destino.",
+                "La dependencia ATC del último espacio aéreo controlado, hasta el límite de dicho espacio.",
+                "El centro de control de área, hasta el destino.",
+                "No se requiere autorización en ese caso."
+              ],
+              "opcion_correcta": 1,
+               "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+              "subunidad": "Descripción de las autorizaciones de control de tránsito aéreo",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+          {
+              "pregunta":"¿Se puede usar la frase “autorizado ruta plan de vuelo”?",
+              "opciones":[
+                "Siempre.",
+                "Nunca.",
+                "Sí, si la ruta es idéntica a la del plan de vuelo y se dan suficientes detalles.",
+                "Solo en vuelos nacionales."
+              ],
+              "opcion_correcta": 2,
+               "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+              "subunidad": "Descripción de las autorizaciones de control de tránsito aéreo",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+          {
+              "pregunta": "Si las condiciones del tránsito no permiten autorizar un cambio de ruta o nivel solicitado, ¿qué palabra se usa?",
+              "opciones": [
+                  "NEGATIVO",
+                  "IMPOSIBLE",
+                  "DENEGADO",
+                  "ESPERE"
+              ],
+              "opcion_correcta": 1,
+              "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+              "subunidad": "Descripción de las autorizaciones de control de tránsito aéreo",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+           {
+              "pregunta": "Si se ofrece y acepta una ruta alternativa, ¿hasta dónde se describe la ruta en la autorización enmendada?",
+              "opciones":[
+                "Solo hasta el punto de inicio de la desviación.",
+                "Hasta el punto donde intercepta la ruta anterior o, si no la intercepta, hasta el destino.",
+                "Hasta el punto final de la desviación.",
+                "Hasta el próximo punto de notificación."
+              ],
+              "opcion_correcta": 1,
+              "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+              "subunidad": "Descripción de las autorizaciones de control de tránsito aéreo",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+          {
+              "pregunta": "Además de la colación, ¿qué debe hacer el controlador con las autorizaciones e instrucciones?",
+              "opciones": [
+                "Registrarlas por escrito.",
+                "Escuchar la colación para verificar su correcta recepción y corregir discrepancias.",
+                "Informar a la siguiente dependencia ATC.",
+                "Todas las anteriores."
+              ],
+              "opcion_correcta": 1,
+              "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+              "subunidad": "Descripción de las autorizaciones de control de tránsito aéreo",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+          {
+              "pregunta": "¿Se requiere colación oral de mensajes CPDLC?",
+              "opciones":[
+                "Sí, siempre.",
+                "No, a menos que lo prescriba la autoridad ATS competente.",
+                "Solo para mensajes críticos.",
+                "Solo si la comunicación de voz es deficiente."
+              ],
+              "opcion_correcta": 1,
+              "unidad": "AUTORIZACIONES DEL CONTROL DE TRÁNSITO AÉREO",
+              "subunidad": "Descripción de las autorizaciones de control de tránsito aéreo",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+           {
+            "pregunta": "Al aplicar control de velocidad, ¿qué se debe evitar?",
+            "opciones": [
+              "Instrucciones que impliquen cambios frecuentes de velocidad.",
+              "Aumentos de velocidad.",
+              "Disminuciones de velocidad.",
+              "Cualquier cambio de velocidad."
+            ],
+            "opcion_correcta": 0,  
+            "unidad": "INSTRUCCIONES PARA CONTROL DE LA VELOCIDAD HORIZONTAL",
+            "subunidad": "Generalidades",
+            "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+           {
+              "pregunta": "¿Se aplica control de velocidad a aeronaves en circuito de espera?",
+              "opciones":[
+                "Sí, siempre.",
+                "Sí, pero solo en condiciones de alta densidad de tráfico.",
+                "No.",
+                "Solo a discreción del controlador."
+              ],
+              "opcion_correcta": 2,
+              "unidad": "INSTRUCCIONES PARA CONTROL DE LA VELOCIDAD HORIZONTAL",
+              "subunidad": "Generalidades",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+          {
+            "pregunta": "Para establecer la separación deseada entre aeronaves, ¿qué debería hacer primero el controlador?",
+            "opciones":[
+              "Aumentar la velocidad de todas las aeronaves.",
+              "Reducir la velocidad de la última aeronave o aumentar la de la que precede, y luego ajustar las demás.",
+              "Reducir la velocidad de todas las aeronaves.",
+              "Dar instrucciones de cambio de rumbo."
+            ],
+            "opcion_correcta": 1,
+            "unidad": "INSTRUCCIONES PARA CONTROL DE LA VELOCIDAD HORIZONTAL",
+            "subunidad": "Métodos de aplicación",
+            "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+           {
+              "pregunta":"¿A qué velocidad mínima, en configuración limpia, se puede reducir la velocidad de aeronaves de turborreacción por debajo de 4550 m (FL 150)?",
+              "opciones":[
+                "460 km/h (250 kt) IAS.",
+                "410 km/h (220 kt) IAS.",
+                "370 km/h (200 kt) IAS.",
+                "Depende del tipo de aeronave."
+              ],
+              "opcion_correcta": 1,
+              "unidad": "INSTRUCCIONES PARA CONTROL DE LA VELOCIDAD HORIZONTAL",
+              "subunidad": "Aeronaves descendiendo y a la llegada",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+          {
+              "pregunta": "¿Se deben impartir instrucciones a una aeronave para que mantenga regímenes elevados de descenso *y* disminuya su velocidad simultáneamente?",
+              "opciones":[
+                  "Si, es eficiente",
+                  "Depende del tipo de aeronave",
+                  "Debería evitarse, son normalmente incompatibles",
+                  "Depende de la meteorología"
+              ],
+              "opcion_correcta":2,
+              "unidad": "INSTRUCCIONES PARA CONTROL DE LA VELOCIDAD HORIZONTAL",
+              "subunidad": "Aeronaves descendiendo y a la llegada",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+          {
+              "pregunta":"¿Qué es la “velocidad mínima limpia”?",
+              "opciones":[
+                "La velocidad mínima en condiciones meteorológicas despejadas.",
+                "La velocidad mínima en una configuración limpia (sin dispositivos hipersustentadores, frenos o tren desplegados).",
+                "La velocidad mínima con el tren de aterrizaje bajado.",
+                "La velocidad mínima al nivel del mar."
+              ],
+              "opcion_correcta": 1,
+              "unidad": "INSTRUCCIONES PARA CONTROL DE LA VELOCIDAD HORIZONTAL",
+              "subunidad": "Aeronaves descendiendo y a la llegada",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      
+          },
+          {
+            "pregunta": "En el control de velocidad vertical, ¿a qué deberían limitarse los ajustes?",
+            "opciones": [
+              "A lo necesario para establecer o mantener la mínima de separación deseada.",
+              "A lo que el piloto considere seguro.",
+              "A lo máximo que la aeronave pueda realizar.",
+              "No hay limitaciones."
+            ],
+            "opcion_correcta": 0,
+            "unidad": "INSTRUCCIONES PARA CONTROL DE LA VELOCIDAD VERTICAL",
+            "subunidad": "Generalidades",
+            "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+           {
+              "pregunta": "Al aplicar control de velocidad vertical, ¿qué debe asegurarse el controlador?",
+              "opciones":[
+                "Que la aeronave pueda mantener el régimen de ascenso/descenso especificado en los niveles pertinentes.",
+                "Que se puedan aplicar métodos alternativos de separación, si es necesario.",
+                "Ambas, A y B.",
+                "Ninguna de las anteriores."
+              ],
+              "opcion_correcta": 2,
+              "unidad": "INSTRUCCIONES PARA CONTROL DE LA VELOCIDAD VERTICAL",
+              "subunidad": "Métodos de aplicación",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      
+           },
+           {
+            "pregunta": "¿Cuál es la categoría de estela turbulenta para una aeronave con una masa máxima certificada de despegue de 100,000 kg?",
+            "opciones": [
+              "Ligera (L).",
+              "Media (M).",
+              "Pesada (H).",
+              "Superpesada (S)."
+            ],
+            "opcion_correcta": 1,  
+            "unidad": "CATEGORÍAS DE ESTELA TURBULENTA",
+            "subunidad": "Categorías de estela turbulenta de las aeronaves",
+            "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+          {
+           "pregunta": "En relación con los helicópteros y las aeronaves ligeras, se establece que:",
+           "opciones":[
+              "Deben operar muy cerca, por seguridad.",
+              "Deben mantenerse bastante distanciados cuando los helicópteros estén en vuelo estacionario o rodaje aéreo.",
+              "No hay restricciones especiales.",
+              "Los helicópteros siempre tienen prioridad."
+           ],
+           "opcion_correcta":1,
+           "unidad": "CATEGORÍAS DE ESTELA TURBULENTA",
+           "subunidad": "Categorías de estela turbulenta de las aeronaves",
+           "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+          {
+              "pregunta": "Si una aeronave, al atravesar la capa de transición, asciende, ¿cómo se expresa su posición vertical?",
+              "opciones": [
+                "En altitudes.",
+                "En niveles de vuelo.",
+                "En metros.",
+                "En pies."
+              ],
+              "opcion_correcta": 1,
+              "unidad": "PROCEDIMIENTOS DE REGLAJE DE ALTÍMETRO",
+              "subunidad": "Expresión de la posición vertical de las aeronaves",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+            },
+             {
+              "pregunta": "¿Cuál es el nivel de vuelo más bajo utilizable sobre la altitud de transición?",
+              "opciones":[
+                "El nivel de transición.",
+                "Siempre FL100.",
+                "Depende de la altitud de transición establecida.",
+                "Siempre FL200."
+              ],
+              "opcion_correcta": 0,
+              "unidad": "PROCEDIMIENTOS DE REGLAJE DE ALTÍMETRO",
+              "subunidad": "Determinación del nivel de transición",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      
+             },
+              {
+              "pregunta":"Además de la transmisión directa (con acuse de recibo) y la llamada general, ¿qué otros medios se pueden usar para difundir información a las aeronaves?",
+              "opciones":[
+                "Radiodifusión y enlace de datos.",
+                "Señales visuales.",
+                "Mensajes de texto.",
+                "Correo electrónico."
+              ],
+              "opcion_correcta": 0,
+              "unidad": "SERVICIO DE INFORMACIÓN DE VUELO",
+              "subunidad": "Transmisión de información",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          },
+           {
+              "pregunta":"¿Qué tipo de información se transmite a las aeronaves mediante llamadas generales?",
+              "opciones":[
+                "Información meteorológica rutinaria.",
+                "Información esencial que debe difundirse a varias aeronaves sin demora.",
+                "Información sobre planes de vuelo.",
+                "Instrucciones de rodaje."
+              ],
+              "opcion_correcta": 1,
+              "unidad": "SERVICIO DE INFORMACIÓN DE VUELO",
+              "subunidad": "Transmisión de información",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      
+           },
+            {
+              "pregunta":"La transmisión de información SIGMET, AIRMET y aeronotificaciones especiales a la aeronave, debe cubrir:",
+              "opciones":[
+                  "Una parte de la ruta de hasta 2 horas de vuelo.",
+                  "Una parte de la ruta de hasta 30 minutos de vuelo.",
+                  "Una parte de la ruta de hasta una hora de vuelo por delante de la posición de la aeronave.",
+                  "La ruta completa de vuelo."
+              ],
+              "opcion_correcta":2,
+              "unidad": "SERVICIO DE INFORMACIÓN DE VUELO",
+              "subunidad": "Transmisión de información",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+            },
+           {
+              "pregunta":"En un vuelo IFR dentro de espacio aéreo con servicio de asesoramiento, ¿están los cambios al plan de vuelo sujetos a permiso?",
+              "opciones":[
+                "Sí, siempre.",
+                "No, ya que solo se proporciona asesoramiento.",
+                "Solo si afectan a la ruta.",
+                "Solo si afectan a la altitud."
+              ],
+              "opcion_correcta": 1,
+               "unidad":"SERVICIO DE INFORMACIÓN DE VUELO",
+              "subunidad": "Servicio de asesoramiento de tránsito aéreo",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+           },
+           {
+              "pregunta": "Una dependencia de servicios de tránsito aéreo que suministra servicio asesor de tránsito aéreo:",
+              "opciones":[
+                "Aconsejará la hora de salida y niveles de crucero si no hay conflicto.",
+                "Sugerirá medidas para evitar riesgos, dando prioridad a aeronaves ya en el espacio aéreo con servicio de asesoramiento.",
+                "Transmitirá información de tránsito similar a la del servicio de control de área.",
+                "Todas las anteriores."
+              ],
+              "opcion_correcta": 3,
+              "unidad":"SERVICIO DE INFORMACIÓN DE VUELO",
+              "subunidad": "Servicio de asesoramiento de tránsito aéreo",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+           },
+           {
+              "pregunta":"¿Qué debe hacer una aeronave que recibe servicio de alerta y tiene radiocomunicaciones en ambos sentidos?",
+              "opciones":[
+                "Comunicar cada hora.",
+                "Comunicar cada 30 minutos.",
+                "Comunicar entre 20 y 40 minutos después del último contacto, indicando “vuelo normal”.",
+                "No es necesario comunicar si todo está normal."
+              ],
+              "opcion_correcta": 2,
+              "unidad": "SERVICIO DE ALERTA",
+              "subunidad": "Aeronaves",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+           },
+           {
+            "pregunta": "En un área de actividades SAR, ¿qué se puede pedir a las aeronaves que no participen en la operación ni estén bajo control?",
+            "opciones":[
+              "Que ayuden en la búsqueda.",
+              "Que eviten el área, a menos que sean autorizadas.",
+              "Que mantengan escucha en la frecuencia de socorro.",
+              "Que reporten cualquier avistamiento."
+            ],
+            "opcion_correcta":1,
+            "unidad":"SERVICIO DE ALERTA",
+            "subunidad": "Aeronaves",
+            "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      
+           },
+           {
+              "pregunta": "Si una aeronave atraviesa varias FIR/áreas de control y se duda de su posición, ¿quién coordina el servicio de alerta?",
+              "opciones":[
+                "La dependencia ATS de la FIR de origen.",
+                "La dependencia ATS de la FIR de destino.",
+                "La dependencia ATS donde se tuvo la última comunicación o a la que iba a entrar, o la más cercana al límite si está entre dos, o aquella dentro de la cual se encuentre un punto de escala o el punto de destino si no tiene obligación de transmitir reportes",
+                "La dependencia ATS que el piloto elija."
+              ],
+              "opcion_correcta": 2,
+              "unidad": "SERVICIO DE ALERTA",
+              "subunidad": "Dependencias de los servicios de tránsito aéreo",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      
+           },
+           {
+              "pregunta":"Al obtener información para el servicio de alerta, ¿qué se debe comunicar al centro coordinador de salvamento?",
+              "opciones":[
+                "Solo la posición estimada de la aeronave.",
+                "Solo la hora estimada de llegada.",
+                "Las frecuencias de socorro disponibles para los supervivientes, según el plan de vuelo.",
+                "Solo el tipo de aeronave."
+              ],
+              "opcion_correcta": 2,
+              "unidad": "SERVICIO DE ALERTA",
+              "subunidad": "Dependencias de los servicios de tránsito aéreo",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+           },
+            {
+              "pregunta":"Cuando un piloto solicita un cambio de nivel, la fraseología correcta en inglés es:",
+              "opciones":[
+                "REQUEST CHANGE LEVEL.",
+                "REQUEST LEVEL CHANGE.",
+                "CHANGE LEVEL REQUESTED.",
+                "LEVEL CHANGE REQUEST."
+              ],
+              "opcion_correcta":1,
+              "unidad": "FRASEOLOGÍA BILINGÜE ATC",
+              "subunidad": "Generalidades",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      
+            },
+            {
+              "pregunta":"La frase “MAINTAIN OWN SEPARATION AND VMC” significa:",
+              "opciones":[
+                  "Mantener la altitud y condiciones meteorologicas",
+                  "Mantener la propia separacion y condiciones meteorologicas visuales",
+                  "Monitorear separacion de vuelo",
+                  "Mantener comunicacion"
+              ],
+              "opcion_correcta":1,
+              "unidad": "FRASEOLOGÍA BILINGÜE ATC",
+              "subunidad": "Generalidades",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+            },
+            {
+              "pregunta": "Si un piloto no puede cumplir una instrucción, la frase en inglés es:",
+              "opciones":[
+                "UNABLE.",
+                "NEGATIVE.",
+                "CANNOT COMPLY.",
+                "IMPOSSIBLE."
+              ],
+              "opcion_correcta":0,
+              "unidad": "FRASEOLOGÍA BILINGÜE ATC",
+              "subunidad": "Generalidades",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+            },
+            {
+              "pregunta":"¿Qué significa “AFFIRM” en fraseología ATC?",
+              "opciones":[
+                "Negativo.",
+                "Sí.",
+                "Repita.",
+                "Espere."
+              ],
+              "opcion_correcta": 1,
+              "unidad": "FRASEOLOGÍA BILINGÜE ATC",
+              "subunidad": "Generalidades",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      
+            },
+            {
+              "pregunta": "Para indicar capacidad de 8,33 kHz, un piloto diría:",
+              "opciones":[
+                "833 CAPABLE.",
+                "CHANNEL 833.",
+                "8 DECIMAL 33.",
+                "AFFIRMATIVE 8.33."
+              ],
+              "opcion_correcta":3,
+              "unidad": "FRASEOLOGÍA BILINGÜE ATC",
+              "subunidad": "Generalidades",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      
+            },
+             {
+              "pregunta": "Para indicar *falta* de capacidad UHF, un piloto diría:",
+              "opciones":[
+                "AFFIRMATIVE UHF.",
+                "NEGATIVE UHF.",
+                "UHF UNABLE.",
+                "NO UHF."
+              ],
+              "opcion_correcta":1,
+              "unidad": "FRASEOLOGÍA BILINGÜE ATC",
+              "subunidad": "Generalidades",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+             },
+             {
+              "pregunta": "La frase “TRAFFIC (direction) (type of aircraft) (level) (estimated or actual) (position)” se utiliza para:",
+              "opciones":[
+                "Dar información de tránsito.",
+                "Solicitar información de tránsito.",
+                "Confirmar recepción de información de tránsito.",
+                "Cancelar información de tránsito."
+              ],
+              "opcion_correcta":0,
+              "unidad": "FRASEOLOGÍA BILINGÜE ATC",
+              "subunidad": "Generalidades",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      
+             },
+             {
+              "pregunta":"Si un piloto tiene a la vista el tránsito sobre el que se le informó, diría:",
+              "opciones":[
+                "TRAFFIC IN SIGHT.",
+                "NEGATIVE CONTACT.",
+                "LOOKING OUT.",
+                "VISUAL."
+              ],
+              "opcion_correcta": 0,
+              "unidad": "FRASEOLOGÍA BILINGÜE ATC",
+              "subunidad": "Generalidades",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+      
+             },
+             {
+              "pregunta": "La frase \"CLOUD (amount, [(type)] and height of base) (units) (or SKY CLEAR);\" se utiliza para informar:",
+              "opciones":[
+                  "La altura de vuelo",
+                  "La visibilidad",
+                  "Condiciones de nubosidad",
+                  "El viento"
+              ],
+              "opcion_correcta":2,
+              "unidad": "FRASEOLOGÍA BILINGÜE ATC",
+              "subunidad":"Generalidades",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+             },
+             {
+              "pregunta":"Para omitir los informes de posición hasta una posición determinada, el controlador diría:",
+              "opciones":[
+                "OMIT POSITION REPORTS [UNTIL (specify)].",
+                "CANCEL POSITION REPORTS.",
+                "NO POSITION REPORTS REQUIRED.",
+                "STOP REPORTING POSITION."
+              ],
+              "opcion_correcta": 0,
+              "unidad": "FRASEOLOGÍA BILINGÜE ATC",
+              "subunidad":"Generalidades",
+              "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+             },
+             {
+                "pregunta": "Según su masa máxima certificada de despegue, ¿en qué categorías se clasifican las aeronaves para la separación por estela turbulenta?",
+                "opciones": [
+                  "Ligera, Media, Pesada, Superpesada.",
+                  "Ligera, Media, Pesada.",
+                  "Pequeña, Mediana, Grande.",
+                  "A, B, C."
+                ],
+                "opcion_correcta": 1,
+                "unidad": "CATEGORÍAS DE ESTELA TURBULENTA",
+                "subunidad": "Categorías de estela turbulenta de las aeronaves",
+                "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+              },
+              {
+                "pregunta": "Una aeronave de 5,000 kg de masa máxima certificada de despegue, ¿a qué categoría de estela turbulenta pertenece?",
+                "opciones": [
+                  "Pesada (H).",
+                  "Media (M).",
+                  "Ligera (L).",
+                  "No pertenece a ninguna categoría."
+                ],
+                "opcion_correcta": 2,
+                "unidad": "CATEGORÍAS DE ESTELA TURBULENTA",
+                "subunidad": "Categorías de estela turbulenta de las aeronaves",
+                "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+              },
+              {
+                "pregunta": "Si una aeronave tiene una masa máxima certificada de despegue de *exactamente* 7,000 kg, ¿a qué categoría pertenece?",
+                "opciones":[
+                  "Pesada",
+                  "Media",
+                  "Ligera",
+                  "Depende de su velocidad"
+                ],
+                "opcion_correcta": 2,
+                "unidad": "CATEGORÍAS DE ESTELA TURBULENTA",
+                "subunidad": "Categorías de estela turbulenta de las aeronaves",
+                "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+              },
+               {
+                "pregunta": "¿Dónde se indican las categorías de estela turbulenta para fines del plan de vuelo?",
+                "opciones":[
+                  "En la casilla 19 del plan de vuelo.",
+                  "En la casilla 9 del plan de vuelo.",
+                  "En un anexo al plan de vuelo.",
+                  "No es necesario indicarlas en el plan de vuelo."
+                ],
+                "opcion_correcta":1,
+                "unidad": "CATEGORÍAS DE ESTELA TURBULENTA",
+                "subunidad": "Indicación de la categoría pesada de estela turbulenta",
+                "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          
+               },
+              {
+                "pregunta": "Para vuelos *en ruta*, al nivel más bajo de vuelo utilizable o por encima de este, ¿cómo se expresa la posición vertical?",
+                "opciones": [
+                  "En altitudes.",
+                  "En niveles de vuelo.",
+                  "En metros sobre el nivel del mar.",
+                  "En pies sobre el terreno."
+                ],
+                "opcion_correcta": 1,
+                "unidad": "PROCEDIMIENTOS DE REGLAJE DE ALTÍMETRO",
+                "subunidad": "Expresión de la posición vertical de las aeronaves",
+                "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+              },
+              {
+                "pregunta": "En una aproximación de precisión, ¿cómo se expresa la posición vertical cuando se usa QFE?",
+                "opciones": [
+                  "Siempre en altura sobre la elevación del aeródromo.",
+                  "En altura sobre la elevación del aeródromo, o sobre la elevación del umbral de pista si este está 2 m (7 ft) o más por debajo de la elevación del aeródromo.",
+                  "Siempre en altura sobre el umbral.",
+                  "En niveles de vuelo."
+                ],
+                "opcion_correcta": 1,
+                "unidad": "PROCEDIMIENTOS DE REGLAJE DE ALTÍMETRO",
+                "subunidad": "Expresión de la posición vertical de las aeronaves",
+                "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+              },
+              {
+                  "pregunta": "¿Qué información se utiliza para determinar el nivel de transición?",
+                  "opciones":[
+                      "Informes QFE",
+                      "Informes QNH y la presión al nivel medio del mar pronosticada, si se requiere.",
+                      "Solo la altitud del terreno.",
+                      "La temperatura del aire."
+                  ],
+                   "opcion_correcta": 1,
+                  "unidad": "PROCEDIMIENTOS DE REGLAJE DE ALTÍMETRO",
+                  "subunidad": "Determinación del nivel de transición",
+                  "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+              },
+               {
+                  "pregunta": "Si hay dos o más aeródromos cercanos con una altitud de transición común, ¿cómo se establece el nivel de transición?",
+                  "opciones":[
+                    "Se usa el nivel de transición más alto de los aeródromos.",
+                    "Se usa el nivel de transición más bajo de los aeródromos.",
+                    "Las dependencias ATS establecen un nivel común de transición.",
+                    "Cada aeródromo usa su propio nivel de transición."
+                  ],
+                  "opcion_correcta":2,
+                  "unidad": "PROCEDIMIENTOS DE REGLAJE DE ALTÍMETRO",
+                  "subunidad": "Determinación del nivel de transición",
+                  "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+               },
+              {
+                  "pregunta":"Aparte de los globos libres no tripulados, ¿a qué vuelos se aplica la anotación y transmisión de información del progreso de los vuelos?",
+                  "opciones":[
+                      "A todos los vuelos.",
+                      "Solo a vuelos IFR.",
+                      "Solo a vuelos que no dependen del servicio de control o asesoramiento.",
+                      "Solo a vuelos internacionales."
+                  ],
+                  "opcion_correcta":2,
+                  "unidad": "SERVICIO DE INFORMACIÓN DE VUELO",
+                  "subunidad": "Anotación y transmisión de información relativa al progreso de los vuelos",
+                  "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+              },
+              {
+                  "pregunta": "¿A quién se debe transmitir la información del progreso de los vuelos recibida por una dependencia ATS?",
+                  "opciones":[
+                    "Solo al centro de control de área.",
+                    "Solo a la torre de control.",
+                    "A otras dependencias ATS interesadas, cuando sea necesario.",
+                    "A todas las aeronaves en la frecuencia."
+                  ],
+                  "opcion_correcta":2,
+                  "unidad": "SERVICIO DE INFORMACIÓN DE VUELO",
+                  "subunidad": "Anotación y transmisión de información relativa al progreso de los vuelos",
+                  "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          
+              },
+              {
+                  "pregunta": "Si las instalaciones de comunicación son inadecuadas al cruzar un límite de FIR, ¿qué debe hacer la dependencia ATS de la FIR de origen?",
+                  "opciones":[
+                    "Dejar de prestar servicio de información de vuelo.",
+                    "Continuar prestando el servicio, en lo posible, hasta que se establezca comunicación con la dependencia de la FIR adyacente.",
+                    "Transferir inmediatamente la responsabilidad a la siguiente FIR.",
+                    "Instruir a la aeronave a cambiar a la frecuencia de la siguiente FIR."
+                  ],
+                  "opcion_correcta": 1,
+                  "unidad": "SERVICIO DE INFORMACIÓN DE VUELO",
+                  "subunidad": "Transferencia de responsabilidad en cuanto al suministro de servicios de información de vuelo",
+                  "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+              },
+              {
+                "pregunta": "La información sobre actividad volcánica precursora de erupción, erupciones volcánicas y nubes de cenizas volcánicas, se difundirá:",
+                "opciones": [
+                  "Solo mediante NOTAM.",
+                  "Solo a las aeronaves que lo soliciten.",
+                  "A las aeronaves, por uno o más de los medios especificados en 9.1.3.1.1.",
+                  "Solo a las aeronaves en espacio aéreo afectado."
+                ],
+                "opcion_correcta": 2,
+                "unidad": "SERVICIO DE INFORMACIÓN DE VUELO",
+                "subunidad": "Transmisión de información",
+                "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+              },
+               {
+                  "pregunta": "¿Qué tipo de información meteorológica se transmite a las aeronaves supersónicas antes de la deceleración/descenso?",
+                  "opciones":[
+                      "Solo la temperatura en altura.",
+                      "Solo la dirección y velocidad del viento en superficie.",
+                      "Informes y pronósticos meteorológicos actuales, con limitaciones si hay problemas de comunicación.",
+                      "Solo la visibilidad."
+                  ],
+                  "opcion_correcta": 2,
+                  "unidad": "SERVICIO DE INFORMACIÓN DE VUELO",
+                  "subunidad": "Transmisión de información",
+                  "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+               },
+                {
+                  "pregunta": "¿Qué debe hacer una dependencia ATS si, después de un tiempo razonable, no recibe un informe de una aeronave?",
+                  "opciones":[
+                    "Considerar la aeronave perdida.",
+                    "Iniciar la fase de alerta.",
+                    "Tratar de obtener dicho informe dentro de los 30 minutos siguientes, para ajustarse a la fase de incertidumbre si es necesario.",
+                    "Notificar al centro de búsqueda y salvamento."
+                  ],
+                  "opcion_correcta":2,
+                  "unidad": "SERVICIO DE ALERTA",
+                  "subunidad": "Dependencias de los servicios de tránsito aéreo",
+                  "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          
+                },
+                 {
+                  "pregunta": "Una vez iniciada la fase de emergencia la dependencia ATS debe:",
+                  "opciones":[
+                      "Solicitar información a las dependencias que colaboren en la búsqueda.",
+                      "Recopilar la información reunida y remitirla al centro coordinador de salvamento.",
+                      "Anunciar la terminación del estado de emergencia.",
+                      "Todas las anteriores."
+                  ],
+                  "opcion_correcta": 3,
+                  "unidad": "SERVICIO DE ALERTA",
+                  "subunidad": "Dependencias de los servicios de tránsito aéreo",
+                  "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+                 },
+                  {
+                "pregunta": "En la fraseología, ¿qué palabras indican que se debe insertar información específica (como un nivel, lugar u hora)?",
+                "opciones": [
+                  "Corchetes [ ]",
+                  "Paréntesis ( )",
+                  "Llaves { }",
+                  "Comillas \" \""
+                ],
+                "opcion_correcta": 1,
+                "unidad": "PROCEDIMIENTOS DE COMUNICACIONES",
+                "subunidad": "GENERALIDADES",
+                "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+              },
+              {
+                "pregunta": "Si se usa fraseología no estándar, ¿cómo debe ser el lenguaje utilizado?",
+                "opciones": [
+                  "Técnico y abreviado.",
+                  "Lo más claro y conciso posible.",
+                  "En inglés, independientemente del idioma local.",
+                  "Depende del criterio del controlador."
+                ],
+                "opcion_correcta": 1,
+                "unidad": "PROCEDIMIENTOS DE COMUNICACIONES",
+                "subunidad": "GENERALIDADES",
+                "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+              },
+               {
+                  "pregunta": "¿Dónde se encuentran los procedimientos radiotelefónicos estándar (frases y palabras corrientes)?",
+                  "opciones":[
+                    "En el Manual de Radiotelefonía (Doc 9432).",
+                    "En el Anexo 10, Volumen II.",
+                    "En el Anexo 2.",
+                    "En el presente documento (Doc 4444)."
+                  ],
+                  "opcion_correcta": 1,
+                  "unidad": "PROCEDIMIENTOS DE COMUNICACIONES",
+                  "subunidad": "GENERALIDADES",
+                  "modulo": "Documento 4444 - Gestión del Tránsito Aéreo"
+          
+               }
+    ]
+  }

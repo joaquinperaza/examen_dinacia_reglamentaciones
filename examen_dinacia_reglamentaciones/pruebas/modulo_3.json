@@ -1,0 +1,889 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es la definición de 'Accidente' según el LAR 91?",
+      "opciones": [
+        "Suceso donde alguien sufre lesiones mortales o graves por estar en la aeronave.",
+        "Suceso donde la aeronave sufre daños o roturas estructurales que afectan su performance.",
+        "Suceso donde la aeronave desaparece o es totalmente inaccesible.",
+        "Todas las anteriores."
+      ],
+      "opcion_correcta": 3,
+      "unidad": "Capítulo A:  Generalidades",
+      "subunidad": "Definiciones y Aplicación",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "¿Qué tipo de vuelos se realizarán de forma que la aeronave vuele en condiciones de visibilidad y de distancia de las nubes iguales o superiores a las indicadas en la Tabla A-1?",
+      "opciones": [
+        "Vuelos IFR.",
+        "Vuelos VFR especiales.",
+        "Vuelos VFR.",
+        "Vuelos nocturnos."
+      ],
+      "opcion_correcta": 2,
+      "unidad": "‌Capítulo B:  Reglas de vuelo",
+      "subunidad": "Reglas Generales de vuelo, VFR e IFR",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "Según la sección 91.005, ¿a qué tipo de operaciones se aplican los requisitos de los Capítulos A, B y C del LAR 91?",
+      "opciones": [
+        "Operaciones de aviación general con aeronaves civiles dentro del territorio nacional.",
+        "Personas a bordo de aeronaves civiles operadas según esta parte y reglamento.",
+        "Aeronaves de explotadores de servicios aéreos (además de cumplir con LAR 121 y 135).",
+        "Todas las anteriores."
+      ],
+      "opcion_correcta": 3,
+      "unidad": "Capítulo A:  Generalidades",
+      "subunidad": "Principal",
+      "modulo": "Reglamento LAR 91"
+    },
+      {
+      "pregunta": "Según la sección 91.005, ¿a qué no se aplica esta parte del reglamento?",
+      "opciones": [
+        "Globos cautivos.",
+        "Cometas y cohetes no tripulados.",
+        "Vehículos ultralivianos motorizados.",
+        "Todas las anteriores."
+      ],
+      "opcion_correcta": 3,
+      "unidad": "Capítulo A:  Generalidades",
+      "subunidad": "Principal",
+      "modulo": "Reglamento LAR 91"
+    },
+      {
+        "pregunta": "¿Que establece la sección 91.010 sobre el Uso problemático de sustancias psicoactivas? ",
+        "opciones":[
+            "El personal puede consumir si no va operar la aeronave",
+            "El personal debe abstenerse de todo tipo de uso problemático de ciertas sustancias.",
+            "El personal puede consumir mientras no afecte a la seguridad",
+            "El reglamento no regula el consumo de sustancias"
+        ],
+        "opcion_correcta": 1,
+        "unidad": "Capítulo A:  Generalidades",
+        "subunidad": "Principal",
+        "modulo": "Reglamento LAR 91"
+      },
+       {
+        "pregunta": "Una aeronave se considera desaparecida cuando:",
+        "opciones":[
+            "Cuando no se tiene contacto con la misma",
+            "Se da por terminada la busqueda y no se encuentran los restos",
+            "Se da aviso al servicio de busqueda y rescate",
+            "Ninguna de las anteriores"
+        ],
+        "opcion_correcta": 1,
+        "unidad": "Capítulo A:  Generalidades",
+        "subunidad": "Definiciones y Aplicación",
+        "modulo": "Reglamento LAR 91"
+      },
+       {
+        "pregunta": "¿Que establece la sección 91.025 sobre los dispositivos electrónicos portátiles? ",
+        "opciones":[
+            "El piloto al mando no permitirá la operación de cualquier dispositivo electrónico portátil, en ninguna aeronave civil",
+            "El piloto al mando permitirá el uso de dispositivos si la aeronave es operada por un titular de un certificado de explotador de servicios aéreos (AOC)",
+            "El piloto al mando permitirá la operación de dispositivos si la aeronave opera según las reglas IFR",
+            "Todas las anteriores son correctas"
+        ],
+        "opcion_correcta": 3,
+        "unidad": "Capítulo A:  Generalidades",
+        "subunidad": "Definiciones y Aplicación",
+        "modulo": "Reglamento LAR 91"
+      },
+    {
+      "pregunta": "Salvo que operen como vuelos VFR especiales, ¿Cómo se realizarán los vuelos VFR?",
+      "opciones": [
+        "En condiciones de visibilidad y distancia de las nubes inferiores a las indicadas en la Tabla A-1.",
+        "En condiciones de visibilidad y distancia de las nubes iguales o superiores a las indicadas en la Tabla A-1.",
+        "En condiciones de visibilidad y distancia de las nubes que queda a criterio del piloto.",
+        "Ninguna de las anteriores."
+      ],
+      "opcion_correcta": 1,
+      "unidad": "‌Capítulo B:  Reglas de vuelo",
+      "subunidad": "Reglas Generales de vuelo, VFR e IFR",
+      "modulo": "Reglamento LAR 91"
+    },
+       {
+      "pregunta": "A menos que lo autorice la autoridad ATS competente, no se realizarán vuelos VFR...",
+      "opciones": [
+        "Por encima del FL 200",
+        "A velocidades transónicas y supersónicas.",
+        "Por encima del FL290 donde se aplica una separación vertical mínima de 300 m (1 000 ft).",
+        "Todas son correctas."
+      ],
+      "opcion_correcta": 3,
+           "unidad": "‌Capítulo B:  Reglas de vuelo",
+      "subunidad": "Reglas Generales de vuelo, VFR e IFR",
+      "modulo": "Reglamento LAR 91"
+    },
+     {
+      "pregunta": "Excepto cuando sea necesario para el despegue o el aterrizaje, o cuando se tenga permiso de la autoridad competente, los vuelos VFR no se efectuarán:",
+      "opciones": [
+        "Sobre aglomeraciones de edificios en ciudades a una altura menor de 300 m (1 000 ft) sobre el obstáculo más alto situado dentro de un radio de 600 m desde la aeronave.",
+        "En cualquier otra parte, a una altura menor de 150 m (500 ft) sobre tierra o agua.",
+        "Ambas son correctas",
+        "Ninguna es correcta"
+      ],
+      "opcion_correcta": 2,
+      "unidad": "‌Capítulo B:  Reglas de vuelo",
+      "subunidad": "Reglas Generales de vuelo, VFR e IFR",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "En un vuelo controlado, ¿Quién tiene la responsabilidad de proceder en la forma más eficaz para prevenir una colisión?",
+      "opciones": [
+        "El copiloto",
+        "El piloto al mando",
+        "El controlador de tránsito aéreo",
+        "El despachante de vuelo"
+      ],
+      "opcion_correcta": 1,
+      "unidad": "‌Capítulo B:  Reglas de vuelo",
+      "subunidad": "Reglas Generales de vuelo, VFR e IFR",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "Entre la puesta y la salida del sol, o durante cualquier otro período que pueda prescribir la AAC, todas las aeronaves en vuelo ostentarán:",
+      "opciones": [
+        "Luces anticolisión.",
+        "Luces de navegación.",
+        "Ninguna luz en particular.",
+        "Las opciones A y B son correctas."
+      ],
+      "opcion_correcta": 3,
+          "unidad": "‌Capítulo B:  Reglas de vuelo",
+      "subunidad": "Reglas Generales de vuelo, VFR e IFR",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "¿Cuándo está permitido apagar o reducir la intensidad de cualquier luz de destellos de a bordo?",
+      "opciones": [
+        "Cuando afecten el desempeño satisfactorio de sus funciones.",
+        "Cuando expongan a un observador externo a un deslumbramiento perjudicial.",
+        "Cuando se desee ahorrar energía.",
+        "Las opciones A y B son correctas."
+      ],
+      "opcion_correcta": 3,
+          "unidad": "‌Capítulo B:  Reglas de vuelo",
+      "subunidad": "Reglas Generales de vuelo, VFR e IFR",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "Antes de iniciar el vuelo, el piloto al mando de la aeronave, ¿de qué debe familiarizarse?",
+      "opciones": [
+        "Con la meteorología del aeródromo de destino únicamente.",
+        "Con las longitudes de pista de los aeródromos a ser utilizados.",
+        "Con toda la información disponible apropiada al vuelo proyectado.",
+        "Con la información de los NOTAMs del aeródromo de salida únicamente."
+      ],
+      "opcion_correcta": 2,
+          "unidad": "‌Capítulo B:  Reglas de vuelo",
+      "subunidad": "Reglas Generales de vuelo, VFR e IFR",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "¿Cuál es la condición principal para que un piloto pueda operar una aeronave realizando un vuelo acrobático?",
+      "opciones": [
+        "Que la aeronave esté certificada para vuelo acrobático.",
+        "Que el piloto tenga la habilitación correspondiente.",
+        "Que se realice sobre áreas designadas y con la debida autorización.",
+        "Todas las anteriores son correctas."
+      ],
+      "opcion_correcta": 3,
+      "unidad": "Capítulo C: Operaciones de vuelo especial",
+      "subunidad": "Principal",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "¿Qué condiciones se deben cumplir para el remolque de planeadores y otros vehículos ligeros no propulsados?",
+      "opciones": [
+        "Que el piloto de la aeronave de remolque tenga la instrucción y experiencia adecuadas.",
+        "Que la aeronave de remolque esté equipada con un gancho de remolque apropiado.",
+        "Que la cuerda/cable de remolque cumpla con los requisitos de resistencia.",
+        "Todas las anteriores son correctas."
+      ],
+      "opcion_correcta": 3,
+      "unidad": "Capítulo C: Operaciones de vuelo especial",
+      "subunidad": "Principal",
+      "modulo": "Reglamento LAR 91"
+    },
+     {
+      "pregunta": "En un vuelo en formación, ¿cuál es la responsabilidad principal del piloto al mando de la aeronave líder?",
+      "opciones": [
+        "Mantener la comunicación con el control de tránsito aéreo.",
+        "Asegurar la separación entre las aeronaves de la formación.",
+        "Guiar la formación y asegurar su seguridad.",
+        "Todas las anteriores son correctas."
+      ],
+      "opcion_correcta": 3,
+      "unidad": "Capítulo C: Operaciones de vuelo especial",
+      "subunidad": "Principal",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "¿Está permitido lanzar objetos o rociar sustancias desde una aeronave en vuelo?",
+      "opciones": [
+        "Sí, en cualquier circunstancia.",
+        "No, está estrictamente prohibido.",
+        "Sí, pero solo en las condiciones prescritas por la AAC y con autorización del ATC.",
+        "Solo si se trata de una emergencia."
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo C: Operaciones de vuelo especial",
+      "subunidad": "Principal",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+    "pregunta": "¿Qué debe hacer el piloto al mando antes de iniciar un vuelo con respecto a las instalaciones y servicios terrestres y marítimos?",
+    "opciones": [
+    "Asumir que todas las instalaciones están operativas.",
+    "Verificar únicamente la disponibilidad de combustible.",
+    "Verificar que las instalaciones y servicios necesarios estén disponibles, sean adecuados y funcionen debidamente.",
+    "No es necesario verificar las instalaciones antes del vuelo."
+    ],
+    "opcion_correcta": 2,
+    "unidad": "Capítulo D: Operaciones de vuelo",
+    "subunidad": "Operaciones Generales",
+    "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "En caso de una emergencia en vuelo que requiera infringir reglamentos locales, ¿qué debe hacer el piloto al mando?",
+      "opciones": [
+        "Ignorar la emergencia y continuar el vuelo.",
+        "Notificar a las autoridades locales competentes sin demora.",
+        "Aterrizar inmediatamente sin importar las condiciones.",
+        "Esperar a que la emergencia se resuelva por sí sola."
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo D: Operaciones de vuelo",
+      "subunidad": "Operaciones Generales",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "¿Está permitido simular situaciones no normales o de emergencia durante el vuelo cuando se llevan pasajeros?",
+      "opciones": [
+        "Sí, siempre y cuando el piloto tenga experiencia.",
+        "No, está prohibido.",
+        "Sí, con la autorización del control de tránsito aéreo.",
+        "Solo si es necesario para el entrenamiento de la tripulación."
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo D: Operaciones de vuelo",
+      "subunidad": "Operaciones Generales",
+      "modulo": "Reglamento LAR 91"
+    },
+     {
+      "pregunta": "Qué información debe estar accesible en el puesto de pilotaje de cada aeronave?",
+      "opciones": [
+        "Una linterna en buenas condiciones.",
+        "Listas de verificación.",
+        "Cartas aeronáuticas.",
+        "Todas las anteriores."
+      ],
+      "opcion_correcta": 3,
+      "unidad": "Capítulo D: Operaciones de vuelo",
+      "subunidad": "Operaciones Generales",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "Al planificar un vuelo, ¿qué factores se deben tener en cuenta para calcular el combustible y aceite necesarios?",
+      "opciones": [
+        "Las condiciones meteorológicas pronosticadas.",
+        "Los procedimientos prescritos en el manual de operaciones.",
+        "La masa del avión",
+        "Todas las anteriores."
+      ],
+      "opcion_correcta": 3,
+          "unidad": "Capítulo D: Operaciones de vuelo",
+      "subunidad": "Procedimientos en Vuelo",
+      "modulo": "Reglamento LAR 91"
+    },
+       {
+      "pregunta": "Que debe contener la certificación de conformidad de mantenimiento?",
+      "opciones":[
+            "Detalles del mantenimiento realizado con referencia de los datos aprobados",
+            "Fecha en que se concluyó el mantenimiento",
+            "Identificación de la OMA que realizó el trabajo",
+            "Todas las anteriores"
+        ],
+        "opcion_correcta": 3,
+        "unidad": "Capítulo D: Operaciones de vuelo",
+        "subunidad": "Operaciones Generales",
+        "modulo": "Reglamento LAR 91"
+      },
+    {
+      "pregunta": "¿Cuándo debe un piloto al mando declarar una situación de emergencia de combustible?",
+      "opciones": [
+        "Cuando el combustible restante es inferior al combustible de reserva final previsto.",
+        "Cuando el combustible restante es inferior a la mitad del combustible total.",
+        "Cuando el combustible restante es suficiente para llegar al aeródromo de alternativa.",
+        "Cuando el piloto lo considere necesario."
+      ],
+      "opcion_correcta": 0,
+      "unidad": "Capítulo D: Operaciones de vuelo",
+      "subunidad": "Procedimientos en Vuelo",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "¿Está permitido reabastecer de combustible a una aeronave con pasajeros embarcando, a bordo o desembarcando?",
+      "opciones": [
+        "No, está estrictamente prohibido.",
+        "Sí, siempre y cuando esté debidamente dotado de personal calificado.",
+        "Sí, en cualquier circunstancia.",
+        "Solo si el piloto al mando lo autoriza."
+      ],
+      "opcion_correcta": 1,
+          "unidad": "Capítulo D: Operaciones de vuelo",
+      "subunidad": "Procedimientos en Vuelo",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "Según el Capítulo I, ¿cuál es la responsabilidad principal del piloto al mando con respecto a la tripulación de vuelo?",
+      "opciones": [
+        "Asegurarse de que todos los miembros de la tripulación tengan sus licencias y habilitaciones vigentes.",
+        "Verificar que los miembros de la tripulación sean competentes para sus funciones.",
+        "Informar a los miembros de la tripulación sobre sus obligaciones y responsabilidades.",
+        "Todas las anteriores son correctas."
+      ],
+      "opcion_correcta": 3,
+      "unidad": "Capítulo I: Tripulación de vuelo",
+      "subunidad": "Principal",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "¿Qué requisitos de experiencia reciente debe cumplir un piloto al mando para operar una aeronave que requiere más de un piloto?",
+      "opciones": [
+        "Haber realizado al menos tres despegues y tres aterrizajes en los últimos 30 días.",
+        "Haber realizado al menos tres despegues y tres aterrizajes en los últimos 60 días.",
+        "Haber realizado al menos tres despegues y tres aterrizajes en los últimos 90 días.",
+        "No hay requisitos de experiencia reciente para el piloto al mando."
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo I: Tripulación de vuelo",
+      "subunidad": "Principal",
+      "modulo": "Reglamento LAR 91"
+    },
+     {
+      "pregunta": "¿Cuándo debe un copiloto cumplir los requisitos de experiencia reciente?",
+      "opciones": [
+          "Antes de que se le asigne para operar en un avión.",
+          "Antes de cada vuelo, sin importar las circunstancias.",
+          "Solo si el vuelo es internacional.",
+          "Cuando el piloto al mando lo requiera."
+        ],
+      "opcion_correcta": 0,
+          "unidad": "Capítulo I: Tripulación de vuelo",
+      "subunidad": "Principal",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "Según el Capítulo J, ¿qué debe contener el manual de operaciones?",
+      "opciones": [
+        "Solo información sobre los procedimientos de emergencia.",
+        "Únicamente las limitaciones de operación de la aeronave.",
+        "Todas las instrucciones e información necesarias para que el personal de operaciones desempeñe sus obligaciones.",
+        "Una lista de los nombres de los pasajeros."
+      ],
+      "opcion_correcta": 2,
+      "unidad": "Capítulo J: Manuales, libros de a bordo, documentos y registros",
+      "subunidad": "Principal",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "¿Qué debe hacerse con el manual de operaciones para asegurar que la información esté actualizada?",
+      "opciones": [
+        "Guardarlo en un lugar seguro y no modificarlo.",
+        "Modificarlo o revisarlo siempre que sea necesario.",
+        "Entregarlo a las autoridades una vez al año.",
+        "No es necesario actualizarlo, ya que la información no cambia."
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo J: Manuales, libros de a bordo, documentos y registros",
+      "subunidad": "Principal",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "Si se establece una Lista de Equipo Mínimo (MEL) para un tipo de aeronave, ¿qué debe hacer el explotador?",
+      "opciones": [
+        "Ignorar la MEL y operar la aeronave con cualquier equipo inoperativo.",
+        "Incluir en el manual de operaciones una MEL aprobada por el Estado de matrícula.",
+        "No es necesario hacer nada si se tiene una MMEL.",
+        "Operar la aeronave siempre que el piloto esté de acuerdo."
+      ],
+      "opcion_correcta": 1,
+      "unidad": "Capítulo J: Manuales, libros de a bordo, documentos y registros",
+      "subunidad": "Principal",
+      "modulo": "Reglamento LAR 91"
+    },
+    {
+      "pregunta": "¿Qué debe contener el libro de a bordo de la aeronave?",
+      "opciones": [
+        "Datos particulares de la aeronave, su tripulación y cada viaje.",
+        "Solo la fecha y los lugares de salida y llegada.",
+        "Únicamente la firma del piloto al mando.",
+        "No es obligatorio llevar un libro de a bordo."
+      ],
+      "opcion_correcta": 0,
+      "unidad": "Capítulo J: Manuales, libros de a bordo, documentos y registros",
+      "subunidad": "Principal",
+      "modulo": "Reglamento LAR 91"
+    },
+     {
+      "pregunta": "En caso de que una aeronave se halle involucrada en un accidente o incidente, el piloto al mando y/o el propietario/explotador, debe:",
+      "opciones":[
+            "Conservar todas las grabaciones que vengan al caso contenidas en los registradores de vuelo",
+            "Conservar los correspondientes registradores de vuelo",
+            "Custodiarlos",
+            "Todas son correctas"
+        ],
+        "opcion_correcta": 3,
+        "unidad": "Capítulo J: Manuales, libros de a bordo, documentos y registros",
+        "subunidad": "Principal",
+        "modulo": "Reglamento LAR 91"
+      },
+      {
+        "pregunta": "Según el Capítulo K, ¿quién es responsable de la seguridad de la aeronave durante su operación?",
+        "opciones": [
+          "El propietario de la aeronave.",
+          "El explotador de la aeronave.",
+          "El piloto al mando.",
+          "El personal de mantenimiento."
+        ],
+        "opcion_correcta": 2,
+        "unidad": "Capítulo K: Seguridad de la aviación",
+        "subunidad": "Principal",
+        "modulo": "Reglamento LAR 91"
+      },
+      {
+        "pregunta": "¿Qué debe hacer el piloto al mando si la aeronave es objeto de actos de interferencia ilícita?",
+        "opciones": [
+          "Intentar notificar a la dependencia ATS apropiada.",
+          "Desviar el plan de vuelo si es necesario por las circunstancias.",
+          "Intentar aterrizar lo antes posible en el aeródromo apropiado más cercano.",
+          "Todas las anteriores son correctas."
+        ],
+        "opcion_correcta": 3,
+        "unidad": "Capítulo K: Seguridad de la aviación",
+        "subunidad": "Principal",
+        "modulo": "Reglamento LAR 91"
+      },
+      {
+        "pregunta": "¿Qué está prohibido con respecto a los miembros de la tripulación de vuelo?",
+        "opciones": [
+          "Consumir alimentos y bebidas durante el vuelo.",
+          "Abandonar sus puestos de servicio durante el vuelo.",
+          "Ser agredido, amenazado, intimidado o interferido mientras cumplen sus funciones.",
+          "Todas las anteriores son correctas."
+        ],
+        "opcion_correcta": 2,
+        "unidad": "Capítulo K: Seguridad de la aviación",
+        "subunidad": "Principal",
+        "modulo": "Reglamento LAR 91"
+      },
+      {
+        "pregunta": "Según el Capítulo L, ¿qué deben observar las aeronaves de matrícula del Estado del explotador en el espacio aéreo sobre alta mar?",
+        "opciones": [
+          "Las leyes y reglamentos del Estado más cercano.",
+          "Las normas internacionales del Anexo 2 al Convenio sobre Aviación Civil Internacional.",
+          "Las regulaciones de la FAA (Administración Federal de Aviación de EE. UU.).",
+          "No están sujetas a ninguna regulación específica."
+        ],
+        "opcion_correcta": 1,
+        "unidad": "Capítulo L: Operaciones de aeronaves extranjeras y nacionales que operan en el exterior y reglas que gobiernan a las personas a bordo de dichas aeronaves",
+        "subunidad": "Principal",
+        "modulo": "Reglamento LAR 91"
+      },
+      {
+        "pregunta": "Al operar dentro de un Estado extranjero, ¿qué debe cumplir el piloto al mando?",
+        "opciones": [
+          "Únicamente las reglas de vuelo del Estado de matrícula de la aeronave.",
+          "Solo las reglas de vuelo internacionales.",
+          "Las leyes, reglamentos y procedimientos del Estado en el que opera la aeronave.",
+          "Las reglas de vuelo que el piloto considere más convenientes."
+        ],
+        "opcion_correcta": 2,
+        "unidad": "Capítulo L: Operaciones de aeronaves extranjeras y nacionales que operan en el exterior y reglas que gobiernan a las personas a bordo de dichas aeronaves",
+        "subunidad": "Principal",
+        "modulo": "Reglamento LAR 91"
+      },
+      {
+        "pregunta": "Si una aeronave extranjera opera dentro del territorio nacional, además de cumplir con otros requisitos aplicables, ¿qué debe cumplir?",
+        "opciones": [
+          "Debe tener una autorización especial de vuelo emitida por la AAC.",
+          "Debe llevar a bordo un observador designado por la AAC.",
+          "Debe cumplir con la Sección 91.170 de este capítulo.",
+          "No necesita cumplir con ningún requisito adicional."
+        ],
+        "opcion_correcta": 2,
+        "unidad": "Capítulo L: Operaciones de aeronaves extranjeras y nacionales que operan en el exterior y reglas que gobiernan a las personas a bordo de dichas aeronaves",
+        "subunidad": "Principal",
+        "modulo": "Reglamento LAR 91"
+      },
+      {
+        "pregunta": "En un vuelo VFR en espacio aéreo controlado, ¿qué requisitos de comunicación debe cumplir un vuelo VFR?",
+        "opciones": [
+          "Mantener comunicaciones aeroterrestres vocales constantes por el canal apropiado.",
+          "Informar su posición a la dependencia de servicios de tránsito aéreo cuando sea necesario.",
+          "Observar las disposiciones de las Secciones 91.245 al 91.265.",
+          "Todas las anteriores son correctas."
+        ],
+        "opcion_correcta": 3,
+        "unidad": "Capítulo L: Operaciones de aeronaves extranjeras y nacionales que operan en el exterior y reglas que gobiernan a las personas a bordo de dichas aeronaves",
+        "subunidad": "Principal",
+        "modulo": "Reglamento LAR 91"
+      },
+          {
+        "pregunta": "En qué circunstancias puede la AAC autorizar restricciones temporales de vuelo en la proximidad de áreas de desastres o peligrosas?",
+        "opciones": [
+          "Para proteger a personas y propiedades en la superficie o en el aire.",
+          "Para proveer un ambiente seguro para operaciones de rescate.",
+          "Para prevenir congestión insegura de aeronaves.",
+          "Todas las anteriores son correctas."
+        ],
+        "opcion_correcta": 3,
+        "unidad": "‌Capítulo B:  Reglas de vuelo",
+        "subunidad": "Reglas Generales de vuelo, VFR e IFR",
+        "modulo": "Reglamento LAR 91"
+      },
+      {
+        "pregunta": "Según el Capítulo I, ¿cuál es la responsabilidad principal del piloto al mando con respecto a la tripulación de vuelo?",
+        "opciones": [
+          "Asegurarse de que todos los miembros de la tripulación tengan las licencias y habilitaciones apropiadas.",
+          "Verificar que los miembros de la tripulación sean competentes para sus funciones.",
+          "Ambas, A y B son correctas.",
+          "Ninguna de las anteriores."
+        ],
+        "opcion_correcta": 2,
+        "unidad": "Capítulo I: Tripulación de vuelo",
+        "subunidad": "Principal",
+        "modulo": "Reglamento LAR 91"
+      },
+      {
+        "pregunta": "¿Qué debe hacer el piloto al mando si un miembro de la tripulación se encuentra incapacitado para cumplir sus obligaciones?",
+        "opciones": [
+          "Continuar el vuelo sin importar la situación.",
+          "No comenzar ningún vuelo si un miembro está incapacitado.",
+          "No continuar el vuelo más allá del aeródromo adecuado más próximo si la capacidad de la tripulación se reduce significativamente.",
+          "Las opciones B y C son correctas."
+        ],
+        "opcion_correcta": 3,
+        "unidad": "Capítulo I: Tripulación de vuelo",
+        "subunidad": "Principal",
+        "modulo": "Reglamento LAR 91"
+      },
+      {
+        "pregunta": "Según la Sección 91.115, ¿qué autoridad tiene el piloto al mando de una aeronave?",
+        "opciones": [
+          "Autoridad limitada a la operación de la aeronave.",
+          "Autoridad compartida con el copiloto.",
+          "Autoridad decisiva en todo lo relacionado con la aeronave mientras esté al mando.",
+          "Ninguna autoridad, ya que depende del despachador de vuelo."
+        ],
+        "opcion_correcta": 2,
+        "unidad": "Capítulo I: Tripulación de vuelo",
+        "subunidad": "Principal",
+        "modulo": "Reglamento LAR 91"
+      },
+       {
+        "pregunta": "Para operar una aeronave certificada que requiere más de un piloto, ¿qué requisitos debe cumplir el piloto al mando?",
+        "opciones": [
+          "Debe poseer una licencia de piloto comercial.",
+          "Debe tener experiencia en el tipo específico de aeronave.",
+          "Debe cumplir con los requisitos de la Sección 91.115.",
+          "Todas las anteriores son correctas."
+        ],
+        "opcion_correcta": 2,
+        "unidad": "Capítulo I: Tripulación de vuelo",
+        "subunidad": "Principal",
+        "modulo": "Reglamento LAR 91"
+      },
+        {
+        "pregunta": "Si una aeronave está equipada con doble mando en completo funcionamiento, ¿en qué condiciones se puede volar en condiciones simuladas de vuelo por instrumentos?",
+        "opciones": [
+          "Siempre que haya un piloto calificado en el puesto de mando.",
+          "Siempre que el piloto de seguridad tenga suficiente visibilidad.",
+          "Solo con un observador competente en comunicación con el piloto de seguridad.",
+          "Todas las anteriores son correctas."
+        ],
+        "opcion_correcta": 3,
+        "unidad": "Capítulo I: Tripulación de vuelo",
+        "subunidad": "Principal",
+        "modulo": "Reglamento LAR 91"
+      },
+      {
+        "pregunta": "¿Qué debe contener el libro de a bordo (bitácora de vuelo) de la aeronave?",
+        "opciones": [
+          "Datos de la aeronave, tripulación y cada viaje.",
+          "Información sobre el mantenimiento de la aeronave.",
+          "Lista de pasajeros y carga.",
+          "Todas las anteriores son correctas."
+        ],
+        "opcion_correcta": 3,
+        "unidad": "Capítulo J: Manuales, libros de a bordo, documentos y registros",
+        "subunidad": "Principal",
+        "modulo": "Reglamento LAR 91"
+      },
+      {
+        "pregunta": "¿Qué debe hacer el piloto al mando con respecto a los registros de los registradores de vuelo en caso de accidente o incidente?",
+        "opciones": [
+          "Conservarlos y custodiarlos hasta que se determine su destino.",
+          "Entregarlos inmediatamente a las autoridades.",
+          "Destruirlos para evitar problemas legales.",
+          "Ninguna de las anteriores."
+        ],
+        "opcion_correcta": 0,
+        "unidad": "Capítulo J: Manuales, libros de a bordo, documentos y registros",
+        "subunidad": "Principal",
+        "modulo": "Reglamento LAR 91"
+      },
+         {
+        "pregunta": "Si una aeronave opera bajo un acuerdo en virtud del Artículo 83 bis, ¿qué documento debe transmitirse junto con el acuerdo?",
+        "opciones": [
+          "El manual de vuelo de la aeronave.",
+          "Un resumen del acuerdo que especifique las funciones y obligaciones transferidas.",
+          "El certificado de aeronavegabilidad.",
+          "La lista de equipo mínimo (MEL)."
+        ],
+        "opcion_correcta": 1,
+        "unidad": "Capítulo J: Manuales, libros de a bordo, documentos y registros",
+        "subunidad": "Principal",
+        "modulo": "Reglamento LAR 91"
+      },
+       {
+        "pregunta": "Qué documentos se deben llevar a bordo, según la sección 91.1420?",
+        "opciones":[
+              "Certificado de matrícula, certificado de aeronavegabilidad, licencias de tripulantes",
+              "Libro de a bordo, estación de radio de la aeronave",
+              "Manual de vuelo",
+              "Todas son correctas"
+          ],
+          "opcion_correcta": 3,
+          "unidad": "Capítulo J: Manuales, libros de a bordo, documentos y registros",
+          "subunidad": "Principal",
+          "modulo": "Reglamento LAR 91"
+        },
+        {
+          "pregunta": "Según el Apéndice B, ¿qué significa una serie de proyectiles disparados desde el suelo a intervalos de 10 segundos, que al explotar produzcan luces o estrellas rojas y verdes?",
+          "opciones": [
+            "Aeronave autorizada a aterrizar.",
+            "Aeronave no autorizada volando en o a punto de entrar en una zona restringida, prohibida o peligrosa.",
+            "Aeronave en emergencia.",
+            "Aeronave solicitando permiso para aterrizar."
+          ],
+          "opcion_correcta": 1,
+          "unidad": "Apéndice B: Señales",
+          "subunidad": "Principal",
+          "modulo": "Reglamento LAR 91"
+        },
+        {
+          "pregunta": "Si una aeronave en vuelo observa un panel cuadrado rojo horizontal con diagonales amarillas, ¿qué significa?",
+          "opciones": [
+            "Aeródromo en buenas condiciones.",
+            "Se requiere precaución especial al aproximarse o aterrizar.",
+            "Aterrizajes prohibidos.",
+            "Aeródromo cerrado."
+          ],
+          "opcion_correcta": 2,
+          "unidad": "Apéndice B: Señales",
+          "subunidad": "Principal",
+          "modulo": "Reglamento LAR 91"
+        },
+        {
+          "pregunta": "Si una aeronave en vuelo observa una señal blanca horizontal en forma de pesas, ¿qué indica?",
+          "opciones": [
+            "Las aeronaves deben aterrizar y despegar en cualquier lugar.",
+            "Las aeronaves deben aterrizar, despegar y rodar únicamente en las pistas y calles de rodaje.",
+            "Las aeronaves deben aterrizar, despegar y rodar en cualquier dirección.",
+            "Las aeronaves deben aterrizar y despegar únicamente en las pistas, pero pueden rodar fuera de ellas."
+          ],
+          "opcion_correcta": 1,
+          "unidad": "Apéndice B: Señales",
+          "subunidad": "Principal",
+          "modulo": "Reglamento LAR 91"
+        },
+        {
+          "pregunta": "Según el Apéndice C, ¿qué tipo de luces debe ostentar una aeronave en vuelo entre la puesta y la salida del sol?",
+          "opciones": [
+            "Luces anticolisión y luces de navegación.",
+            "Solo luces de navegación.",
+            "Solo luces anticolisión.",
+            "Ninguna luz es obligatoria."
+          ],
+          "opcion_correcta": 0,
+          "unidad": "Apéndice C: Luces que deben ostentar las aeronaves",
+          "subunidad": "Principal",
+          "modulo": "Reglamento LAR 91"
+        },
+        {
+          "pregunta": "Según el Apéndice D, ¿a qué altitudes de presión de cabina se debe suministrar oxígeno a todos los miembros de la tripulación y al menos al 10% de los pasajeros?",
+          "opciones": [
+            "Entre 10,000 y 13,000 pies, durante todo período que exceda los 30 minutos.",
+            "Por encima de 13,000 pies, durante todo el tiempo.",
+            "Por encima de 15,000 pies, durante todo el tiempo.",
+            "Las opciones A y B son correctas."
+          ],
+          "opcion_correcta": 3,
+          "unidad": "Apéndice D: Provisión de oxígeno",
+          "subunidad": "Principal",
+          "modulo": "Reglamento LAR 91"
+        },
+          {
+            "pregunta": "En aviones presurizados que vuelen por encima de 25,000 pies, ¿qué tipo de máscara de oxígeno debe estar a disposición de la tripulación de vuelo?",
+            "opciones":[
+                "Una máscara de tipo estándar.",
+                "Una máscara de tipo flujo continuo.",
+                "Una máscara de tipo colocación rápida.",
+                "No se requiere máscara de oxígeno si la cabina está presurizada."
+            ],
+            "opcion_correcta": 2,
+            "unidad": "Apéndice D: Provisión de oxígeno",
+            "subunidad": "Principal",
+            "modulo": "Reglamento LAR 91"
+          },
+           {
+          "pregunta": "En relacion a la pregunta anterior, en aviones no presurizados que vuelan sobre que altura se debe llevar a bordo dispositivos para el almacenaje y distribución de oxígeno?",
+          "opciones": [
+            "10000 pies",
+            "12000 pies",
+            "15000 pies",
+            "13000 pies"
+          ],
+          "opcion_correcta": 0,
+           "unidad": "Capítulo F:  Instrumentos y equipos de las aeronaves",
+          "subunidad": "Principal",
+          "modulo": "Reglamento LAR 91"
+        },
+        {
+          "pregunta": "Según el Capítulo C (Limitaciones en la Performance), ¿qué factores deben tenerse en cuenta al aplicar las reglas de este capítulo?",
+          "opciones": [
+            "El peso (masa) calculado del avión.",
+            "Los procedimientos operacionales.",
+            "La altitud de presión y la temperatura ambiente.",
+            "Todas las anteriores."
+          ],
+          "opcion_correcta": 3,
+          "unidad": "Capítulo C: Limitaciones en la performance",
+          "subunidad": "Principal",
+          "modulo": "Reglamento LAR 91"
+        },
+        {
+          "pregunta": "En caso de falla de un motor crítico durante el despegue, ¿qué opciones tiene la aeronave según el Capítulo C?",
+          "opciones": [
+            "Interrumpir el despegue y parar dentro de la distancia disponible.",
+            "Continuar el despegue y salvar todos los obstáculos con un margen adecuado.",
+            "Ambas opciones son correctas.",
+            "Ninguna de las anteriores."
+          ],
+          "opcion_correcta": 2,
+          "unidad": "Capítulo C: Limitaciones en la performance",
+          "subunidad": "Principal",
+          "modulo": "Reglamento LAR 91"
+        },
+        {
+            "pregunta": "Según el Capítulo C, en caso de que el motor crítico quede inoperativo en cualquier punto de la ruta. ¿A qué altitud mínima de vuelo debe operar la aeronave?",
+            "opciones":[
+                "A 150 m (500 ft) por encima de la altitud mínima de vuelo",
+                "A 300 m (1000 ft) por encima del obstáculo mas alto",
+                "A un nivel que no sea inferior a la altitud mínima de vuelo.",
+                "No hay una altitud mínima especificada"
+            ],
+            "opcion_correcta": 2,
+            "unidad": "Capítulo C: Limitaciones en la performance",
+          "subunidad": "Principal",
+          "modulo": "Reglamento LAR 91"
+        },
+        {
+          "pregunta": "¿Qué establece el Capítulo D sobre la documentación que debe llevarse a bordo de la aeronave?",
+          "opciones": [
+            "Solo el manual de vuelo de la aeronave.",
+            "Solo las cartas aeronáuticas.",
+            "El manual de operaciones y las listas de verificación.",
+            "Todas las anteriores son correctas."
+          ],
+          "opcion_correcta": 2,
+          "unidad": "Capítulo D: Instrumentos, equipos y documentos",
+          "subunidad": "Principal",
+          "modulo": "Reglamento LAR 91"
+        },
+        {
+          "pregunta": "Según el Capítulo D, ¿qué debe hacer el explotador con respecto a los datos electrónicos de navegación?",
+          "opciones": [
+            "Asegurarse de que los datos sean precisos y estén actualizados.",
+            "Distribuir e insertar oportunamente los datos en todas las aeronaves.",
+            "Tener procedimientos para la gestión de la integridad de los datos.",
+            "Todas las anteriores son correctas."
+          ],
+          "opcion_correcta": 3,
+          "unidad": "Capítulo D: Instrumentos, equipos y documentos",
+          "subunidad": "Principal",
+          "modulo": "Reglamento LAR 91"
+        },
+          {
+            "pregunta": "Con respecto al equipo de comunicaciones, ¿qué debe permitir el equipo a bordo según el Capítulo E?",
+            "opciones":[
+                "La comunicación en ambos sentidos para fines de control de aeródromo.",
+                "Recibir información meteorológica en cualquier momento durante el vuelo.",
+                "La comunicación con una estación aeronáutica y en las frecuencias prescritas.",
+                "Todas las anteriores son correctas."
+            ],
+            "opcion_correcta": 3,
+            "unidad": "Capítulo E: Equipo de comunicaciones, de navegación y de vigilancia de a bordo",
+          "subunidad": "Principal",
+          "modulo": "Reglamento LAR 91"
+          },
+        {
+          "pregunta": "Si falla una unidad de equipo de comunicaciones, ¿qué debe garantizar la instalación según el Capítulo E?",
+          "opciones": [
+            "Que la falla no afecte a otras unidades necesarias.",
+            "Que se pueda reparar rápidamente en vuelo.",
+            "Que la aeronave pueda continuar el vuelo sin comunicaciones.",
+            "Que el piloto pueda solucionar la falla sin asistencia."
+          ],
+          "opcion_correcta": 0,
+          "unidad": "Capítulo E: Equipo de comunicaciones, de navegación y de vigilancia de a bordo",
+          "subunidad": "Principal",
+          "modulo": "Reglamento LAR 91"
+        },
+        {
+          "pregunta": "Según el Capítulo F, ¿qué debe hacer el explotador con respecto a la tripulación de vuelo?",
+          "opciones": [
+            "Asegurarse de que tengan las licencias y habilitaciones apropiadas.",
+            "Comprobar su competencia para desempeñar sus funciones.",
+            "Establecer programas de instrucción en tierra y en vuelo.",
+            "Todas las anteriores son correctas."
+          ],
+          "opcion_correcta": 3,
+          "unidad": "Capítulo F: Tripulación de vuelo",
+          "subunidad": "Principal",
+          "modulo": "Reglamento LAR 91"
+        },
+        {
+            "pregunta": "Según el Capítulo F, ¿qué debe hacer el explotador con respecto a la tripulación de vuelo?",
+            "opciones":[
+                "Asegurarse de que tengan las licencias y habilitaciones apropiadas.",
+                "Comprobar su competencia para desempeñar sus funciones.",
+                "Establecer programas de instrucción en tierra y en vuelo.",
+                "Todas las anteriores son correctas."
+            ],
+            "opcion_correcta": 3,
+            "unidad": "Capítulo F: Tripulación de vuelo",
+            "subunidad": "Principal",
+            "modulo": "Reglamento LAR 91"
+        },
+        {
+          "pregunta": "¿Cuál es el requisito de experiencia reciente para el piloto al mando, según el Capítulo F?",
+          "opciones": [
+            "Haber realizado al menos un despegue y un aterrizaje en los últimos 30 días.",
+            "Haber realizado al menos tres despegues y tres aterrizajes en los últimos 90 días.",
+            "Haber completado un curso de refresco en los últimos 6 meses.",
+            "No hay requisitos de experiencia reciente para el piloto al mando."
+          ],
+          "opcion_correcta": 1,
+                "unidad": "Capítulo F: Tripulación de vuelo",
+          "subunidad": "Principal",
+          "modulo": "Reglamento LAR 91"
+        }
+
+  ]
+}
